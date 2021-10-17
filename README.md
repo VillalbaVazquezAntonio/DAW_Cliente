@@ -1,6 +1,5 @@
 # DAW_Cliente
-# Antonio Javier Villalba Vázquez
-> Probando el lenguaje Markdown
+ 👋 Hola, soy Antonio Javier Villalba Vázquez
 
 ### Asiganturas 2º DAW:
 - Desarrollo web entorno cliente.
@@ -9,3 +8,9 @@
 - Diseño de interfaces.
 - Empresa e iniciativa emprendedora.
 - Inglés.
+
+
+- 👀 Me interesa ...
+- 🌱 Actualmente estoy aprendiendo ...
+- 💞️ Estoy buscando colaborar en ...
+- 📫 Cómo contactarme ...
