@@ -1,16 +1,17 @@
 # DAW_Cliente
  👋 Hola, soy Antonio Javier Villalba Vázquez
+ 
+ ### 🌱 Actualmente estoy aprendiendo
+ - Html, CSS, MarkDown.
+ - Java, JavaScript, Php.
+ - Synfony, Angular.
 
-### Asiganturas 2º DAW:
-- Desarrollo web entorno cliente.
-- Despliegue de aplicaciones webs.
-- Desarrolo web entorno servidor.
-- Diseño de interfaces.
-- Empresa e iniciativa emprendedora.
-- Inglés.
+## 💞️ Estoy buscando colaborar en
+# Aplicaciones webs.
+# Creacion de páginas webs.
 
+## 👀 Me interesa
+> Me interesa mucho todo lo relacionado con la ciberseguridad.
 
-- 👀 Me interesa ...
-- 🌱 Actualmente estoy aprendiendo ...
-- 💞️ Estoy buscando colaborar en ...
-- 📫 Cómo contactarme ...
+## 📫 Cómo contactarme 
+Mi correo electrónico.
