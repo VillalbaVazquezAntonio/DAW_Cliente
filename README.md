@@ -7,11 +7,11 @@
  - Synfony, Angular.
 
 ## 💞️ Estoy buscando colaborar en
-# Aplicaciones webs.
-# Creacion de páginas webs.
+> Aplicaciones webs.
+> Creacion de páginas webs.
 
 ## 👀 Me interesa
 > Me interesa mucho todo lo relacionado con la ciberseguridad.
 
 ## 📫 Cómo contactarme 
-Mi correo electrónico.
+([Mi correo electrónico.])
