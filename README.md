@@ -87,8 +87,9 @@ Existen diferentes tipos de ataques MID:
 - Ataques basados en servidores DNS.
 - Simulación de un punto de acceso inalámbrico.
 - Ataque Man in the Browser.
-* Un ejemplo que explica su funcionamiento es el siguiente:*
--**Suplantar la IP:** el primer paso es falsificar los datos del sitio web (por ejemplo) para que el equipo de las víctimas crea que se está comunicando con el sitio web original.
+
+*Un ejemplo que explica su funcionamiento es el siguiente:*
+**Suplantar la IP:** el primer paso es falsificar los datos del sitio web (por ejemplo) para que el equipo de las víctimas crea que se está comunicando con el sitio web original.
 - **Suplantar ARP:** consta de "envenenar" la caché ARP para que la dirección MAC del atacante/hacker pueda vincularse a la IP de la víctima.
 - **Suplantar DNS:** Los servidores recuerdan estas traducciones  y las guardan en un caché. El atacante/hacker accede a la caché y cambia las traducciones para redirigir al usuario a un sitio web falso.
 * El siguiente paso es descifrar la información que ha interceptado*
@@ -96,4 +97,12 @@ Existen diferentes tipos de ataques MID:
 - **Vulnerar el navegador en SSL:** los hackers se aprovechan de la vulnerabilidad del cifrado por bloques en el protocolo SSL.
 - **Secuestrar SSL:** se produce cuando el navegador se conecta primero a un protocolo no seguro (HTTP) y luego redirige al usuario a la versión segura (HTTPS): El hacker actúa justo antes de que se produzca ese cambio, desviando la ruta del tráfico hacia su equipo.
 - **SSL stripping:** el atacante usa alguno de los métodos que hemos citado anteriormente para establecerse como intermediario de la comunicación. Una vez hecho esto, cambiará la versión segura de la web (HTTPS) por una no segura (HTTP), de manera que los datos le lleguen descifrados.
+
+(No encontré ningún ejemplo al respecto pero puedo decirte uno que comentamos con un profesor en clase que se podría realizar con este tipo de ataque)
+Si nos conectamos a una red inhámbrica wifi, suplantando su identidad para que los clientes de dicho establecimiento crean que es la original del sitio, y a partir de ahí podremos acceder a todos sus datos.
+
+## 5. Ampliar la información proporcionada por el temario sobre las herramientas FTP y SSH.
+
+
+
 
