@@ -4,6 +4,7 @@
 ## P0<a name="id0"></a>
 # DAW_Cliente
  👋 Hola, soy Antonio Javier Villalba Vázquez
+ <img src="file:C:\Users\AntonioJavier\Documents\DAW\FOL\IMG_1419.jpg" alt="alt text" width="200"/>
  ![Foto](C:\Users\AntonioJavier\Documents\DAW\FOL\IMG_1419.jpg)
  
  ### 🌱 Actualmente estoy aprendiendo
