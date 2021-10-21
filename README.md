@@ -73,7 +73,12 @@ Se considera un secreto de estado de EE. UU., Por lo que está protegido por ley
 Es el sistema más utilizado en el mundo, el más utilizado, el más barato y el más probado.
 Es muy rápido y fácil de implementar.
 Desde sus inicios, no se ha roto con un sistema real.
-Des actualmente no suele utilizarse debido a que es inseguro para muchas aplicaciones, esto ses porque la longitud de clave de 56 bits es corto, las claves de DES se han roto en menos de 24 horas.
+Des actualmente no suele utilizarse debido a que es inseguro para muchas aplicaciones, esto es porque la longitud de clave de 56 bits es corto, las claves de DES se han roto en menos de 24 horas.
+Por ejemplo, si tomamos el mensaje de texto plano "8787878787878787" y lo ciframos con la clave DES "0E329232EA6D0D73", terminamos con el texto cifrado "0000000000000000". Si el texto cifrado se descifra con la misma clave DES secreta "0E329232EA6D0D73", el resultado es el texto sin formato original "8787878787878787".
+Este ejemplo es limpio y ordenado porque nuestro texto sin formato tenía exactamente 64 bits de longitud. Lo mismo sería si el texto sin formato fuera un múltiplo de 64 bits, pero la mayoría de los mensajes no entran en esta categoría. No serán un múltiplo exacto de 64 bits (es decir, un múltiplo exacto de 16 números hexadecimales).
+
+## 5. Ataque MID Información detallada sobre este tipo de ataque y ejemplo que explique su funcionamiento. Mencionar también un ejemplo conocido de ataque MID.
+
 
 
 
