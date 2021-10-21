@@ -87,13 +87,13 @@ Existen diferentes tipos de ataques MID:
 - Ataques basados en servidores DNS.
 - Simulación de un punto de acceso inalámbrico.
 - Ataque Man in the Browser.
-*Un ejemplo que explica su funcionamiento es el siguiente:*
+* Un ejemplo que explica su funcionamiento es el siguiente:*
 -**Suplantar la IP:** el primer paso es falsificar los datos del sitio web (por ejemplo) para que el equipo de las víctimas crea que se está comunicando con el sitio web original.
--**Suplantar ARP:** consta de "envenenar" la caché ARP para que la dirección MAC del atacante/hacker pueda vincularse a la IP de la víctima.
--**Suplantar DNS:** Los servidores recuerdan estas traducciones  y las guardan en un caché. El atacante/hacker accede a la caché y cambia las traducciones para redirigir al usuario a un sitio web falso.
-*El siguiente paso es descifrar la información que ha interceptado*
--**Suplantar HTTPS:** el atacante instala un certificado de seguridad falso para que el navegador crea que es de confianza y le proporcione la clave para descifrar los datos que se envían.
--**Vulnerar el navegador en SSL:** los hackers se aprovechan de la vulnerabilidad del cifrado por bloques en el protocolo SSL.
--**Secuestrar SSL:** se produce cuando el navegador se conecta primero a un protocolo no seguro (HTTP) y luego redirige al usuario a la versión segura (HTTPS): El hacker actúa justo antes de que se produzca ese cambio, desviando la ruta del tráfico hacia su equipo.
--**SSL stripping:** el atacante usa alguno de los métodos que hemos citado anteriormente para establecerse como intermediario de la comunicación. Una vez hecho esto, cambiará la versión segura de la web (HTTPS) por una no segura (HTTP), de manera que los datos le lleguen descifrados.
+- **Suplantar ARP:** consta de "envenenar" la caché ARP para que la dirección MAC del atacante/hacker pueda vincularse a la IP de la víctima.
+- **Suplantar DNS:** Los servidores recuerdan estas traducciones  y las guardan en un caché. El atacante/hacker accede a la caché y cambia las traducciones para redirigir al usuario a un sitio web falso.
+* El siguiente paso es descifrar la información que ha interceptado*
+- **Suplantar HTTPS:** el atacante instala un certificado de seguridad falso para que el navegador crea que es de confianza y le proporcione la clave para descifrar los datos que se envían.
+- **Vulnerar el navegador en SSL:** los hackers se aprovechan de la vulnerabilidad del cifrado por bloques en el protocolo SSL.
+- **Secuestrar SSL:** se produce cuando el navegador se conecta primero a un protocolo no seguro (HTTP) y luego redirige al usuario a la versión segura (HTTPS): El hacker actúa justo antes de que se produzca ese cambio, desviando la ruta del tráfico hacia su equipo.
+- **SSL stripping:** el atacante usa alguno de los métodos que hemos citado anteriormente para establecerse como intermediario de la comunicación. Una vez hecho esto, cambiará la versión segura de la web (HTTPS) por una no segura (HTTP), de manera que los datos le lleguen descifrados.
 
