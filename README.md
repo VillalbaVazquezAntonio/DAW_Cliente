@@ -67,5 +67,13 @@ Llegados a este punto, el navegador generará una clave simétrica, que será ci
 ## **4. Cifrado DES. Información detallada, porqué ya no es usado de forma asidua y ejemplos sobre este tipo de cifrado.**
 Data Encryption Standar es un algoritmo protito de cifrado (un método para cifrar información) por bloques. Se creó con objeto de proporcionar al público en general un algoritmo de cifrado normalizado para redes de ordenadores.
 
+- Las principales desventajas de DES son:
+Se considera un secreto de estado de EE. UU., Por lo que está protegido por leyes específicas y no puede circular en hardware o software fuera de ese país sin el permiso específico del Departamento de Estado.
+- Sus ventajas incluyen:
+Es el sistema más utilizado en el mundo, el más utilizado, el más barato y el más probado.
+Es muy rápido y fácil de implementar.
+Desde sus inicios, no se ha roto con un sistema real.
+Des actualmente no suele utilizarse debido a que es inseguro para muchas aplicaciones, esto ses porque la longitud de clave de 56 bits es corto, las claves de DES se han roto en menos de 24 horas.
+
 
 
