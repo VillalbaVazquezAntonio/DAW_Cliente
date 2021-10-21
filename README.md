@@ -53,7 +53,7 @@ El protocolo TLS es la evolución del Certificado SSL, éste nos garantiza el in
 
 Vamos a explicar un ejemplo de cuando es usado SSL/TLS combinado con HTTP:
 
-- Un usuario realiza una petición HTTP segura a través de un navegador a un sitio web (HTTPS://www.pccomponentes.es/)
+- Un usuario realiza una petición HTTP segura a través de un navegador a un sitio web (HTTPS://www.pccomponentes.com/)
 
 - El servidor donde está alojado el sitio web, envía (si lo tiene) el certificado que incluye la clave pública del servidor. En caso de no tener certificado SSL, se producirá un error.
 
