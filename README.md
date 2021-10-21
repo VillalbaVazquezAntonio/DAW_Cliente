@@ -1,10 +1,10 @@
 ## **Índice**   
-1. [Práctica 0](#id0)
-2. [Práctica 1](#id1)
+0. [Práctica 0](#id0)
+1. [Práctica 1](#id1)
 ## P0<a name="id0"></a>
 # DAW_Cliente
  👋 Hola, soy Antonio Javier Villalba Vázquez
- 
+ <img src="C:\Users\AntonioJavier\Desktop\GitHUB\IMG_1419.jpg" alt="Girl in a jacket" width="500" height="600">
  ### 🌱 Actualmente estoy aprendiendo
  - Html, CSS, MarkDown.
  - Java, JavaScript, Php.
