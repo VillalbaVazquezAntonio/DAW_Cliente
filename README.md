@@ -1,4 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?VillalbaVazquezAntonio=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?VillalbaVazquezAntonio=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## **Índice**   
 0. [Práctica 0](#id0)
