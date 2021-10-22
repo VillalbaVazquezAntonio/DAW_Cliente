@@ -102,7 +102,10 @@ Existen diferentes tipos de ataques MID:
 Si nos conectamos a una red inhámbrica wifi, suplantando su identidad para que los clientes de dicho establecimiento crean que es la original del sitio, y a partir de ahí podremos acceder a todos sus datos.
 
 ## 5. Ampliar la información proporcionada por el temario sobre las herramientas FTP y SSH.
+**FTP** significa Protocolo de transferencia de archivos, que se traduce aproximadamente como Protocolo de transferencia de archivos. Como sugiere su nombre, se trata de un protocolo que permite transferir archivos directamente de un dispositivo a otro. Es un protocolo que se ha eliminado ahora, pero que ha estado en vigor durante más de 50 años.
+Este protocolo funciona entre pc´s conectados a una red TCP(Protocolo de control de transmisión). Este protocolo TCP admite muchas tecnologías, incluida Internet. 
+Un dato importante es que el protocolo FTP era muy inseguro, por lo que la información no viajaba codificada. En 2001 esto se solucionó con el protocolo FTPS, que le añade una capa SSH para hacerlo más seguro y privado.
 
-
+![Ataque DDoS](https://i.blogs.es/79ad1f/conectarte/1366_2000.jpg)
 
 
