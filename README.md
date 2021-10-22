@@ -106,6 +106,15 @@ Si nos conectamos a una red inhámbrica wifi, suplantando su identidad para que 
 Este protocolo funciona entre pc´s conectados a una red TCP(Protocolo de control de transmisión). Este protocolo TCP admite muchas tecnologías, incluida Internet. 
 Un dato importante es que el protocolo FTP era muy inseguro, por lo que la información no viajaba codificada. En 2001 esto se solucionó con el protocolo FTPS, que le añade una capa SSH para hacerlo más seguro y privado.
 
-![Ataque DDoS](https://i.blogs.es/79ad1f/conectarte/1366_2000.jpg)
+![FTP](https://i.blogs.es/79ad1f/conectarte/1366_2000.jpg)
 
+**SSH**
+SSH o Secure Shell es un protocolo de comunicación de red que permite que dos computadoras se comuniquen y poder compartir datos. Una ventaja de ssh es que la comunicación entre dos ordenadores encriptados, lo que significa que se puede usar en redes privada/seguras.
+El protocolo SSH en redes corporativas, por ejemplo:
 
+- Proporcionar acceso seguro para usuarios y procesos automatizados
+- Transferencias de archivos interactivas y automatizadas
+- Emitir comandos remotos
+- Administrar la infraestructura de red y otros componentes del sistema de misión crítica.
+
+![SSH](https://www.ssh.com/hubfs/Imported_Blog_Media/How_does_the_SSH_protocol_work_-2.png)
