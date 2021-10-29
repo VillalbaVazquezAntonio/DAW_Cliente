@@ -1,6 +1,7 @@
 
 ## **Índice**
 [INICIO](#id0)
+
 0. [Práctica 0](#id1)
 1. [Práctica 1](#id2)
 2. [Práctica 2](#id2)
@@ -129,7 +130,7 @@ El protocolo SSH en redes corporativas, por ejemplo:
 ## P2<a name="id3"></a>
 ## ** 1 HTML5. Historia, curiosidades, características principales. **
 **HTML** es un lenguaje de marcado combina texto con instrucciones codificadas sobre cómo darle formato a ese texto, usando el término de *"etiquetas"*.
-HTML5 es un lenguaje de marcado que fue fundado en 2004 por el Grupo de Trabajo de Tecnología de Aplicaciones de Hipertexto Web (WHATWG).
+HTML5 es un lenguaje de marcado que fue fundado en 2004 por el Grupo de Trabajo de Tecnología de Aplicaciones de Hipertexto Web.
 Como dato de curiosidad, los elementos semánticos comunes de HTML5:
 - <article>
 - <aside>
@@ -152,6 +153,8 @@ Como dato de curiosidad, los elementos semánticos comunes de HTML5:
 - **Etiqueta de navegación:**  La etiqueta <nav> define un conjunto de enlaces de navegación.
  
 ![HTML](https://acumbamail.com/blog/wp-content/uploads/2014/10/maquetacion-email-html.png)
+ 
+ ÍNDICE<a name="id0"></a>
  
 
 
