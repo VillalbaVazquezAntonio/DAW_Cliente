@@ -1,6 +1,7 @@
 
 ## **Índice**
 [INICIO](#id0)
+<a name="id0"></a>
 
 0. [Práctica 0](#id1)
 1. [Práctica 1](#id2)
@@ -125,7 +126,7 @@ El protocolo SSH en redes corporativas, por ejemplo:
 - Administrar la infraestructura de red y otros componentes del sistema de misión crítica.
 
 ![SSH](https://www.ssh.com/hubfs/Imported_Blog_Media/How_does_the_SSH_protocol_work_-2.png)
-[INICIO]<a name="id0"></a>
+[INICIO](#id0)
 
 ## P2<a name="id3"></a>
 ## ** 1 HTML5. Historia, curiosidades, características principales. **
@@ -192,6 +193,6 @@ Blink es un motor de navegador desarrollado como parte del proyecto Chromium (de
  
  ![WebKit&Blink](https://schepp.dev/img/webkit.png)
  
- [INICIO]<a name="id0"></a>
+ [INICIO](#id0)
 
  
