@@ -4,9 +4,9 @@
 
 0. [Práctica 0](#id1)
 1. [Práctica 1](#id2)
-2. [Práctica 2](#id2)
-3. [Práctica 3](#id3)
-4. [Práctica 1](#id4)
+2. [Práctica 2](#id3)
+3. [Práctica 3](#id4)
+4. [Práctica 1](#id5)
 ## P0<a name="id1"></a>
 # DAW_Cliente
  👋 Hola, soy Antonio Javier Villalba Vázquez
