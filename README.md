@@ -1,8 +1,12 @@
 
-## **Índice**   
-0. [Práctica 0](#id0)
-1. [Práctica 1](#id1)
-## P0<a name="id0"></a>
+## **Índice**
+[INICIO](#id0)
+0. [Práctica 0](#id1)
+1. [Práctica 1](#id2)
+2. [Práctica 2](#id2)
+3. [Práctica 3](#id3)
+4. [Práctica 1](#id4)
+## P0<a name="id1"></a>
 # DAW_Cliente
  👋 Hola, soy Antonio Javier Villalba Vázquez
 
@@ -18,7 +22,7 @@
 ## 👀 Me interesa
 > Me interesa mucho todo lo relacionado con la ciberseguridad.
 
-## P1<a name="id1"></a>
+## P1<a name="id2"></a>
 ## **1 .Ataque DoS y DDos. Información sobre cada uno de estos conceptos y un detallar un ejemplo destacado sobre cada uno de estos.**
 Los ataques de negación suelen ser los más usados por los ciberdelincuentes en el mundo.
 El objetivo principal de estos tipos de ataques es dejar inutilizable el sistema, una determinada aplicación o máquina, con la finalidad de bloquear dicho servicio al que va destinado el ataque.
@@ -108,6 +112,8 @@ Un dato importante es que el protocolo FTP era muy inseguro, por lo que la infor
 
 ![FTP](https://i.blogs.es/79ad1f/conectarte/1366_2000.jpg)
 
+
+
 **SSH**
 SSH o Secure Shell es un protocolo de comunicación de red que permite que dos computadoras se comuniquen y poder compartir datos. Una ventaja de ssh es que la comunicación entre dos ordenadores encriptados, lo que significa que se puede usar en redes privada/seguras.
 El protocolo SSH en redes corporativas, por ejemplo:
@@ -118,3 +124,34 @@ El protocolo SSH en redes corporativas, por ejemplo:
 - Administrar la infraestructura de red y otros componentes del sistema de misión crítica.
 
 ![SSH](https://www.ssh.com/hubfs/Imported_Blog_Media/How_does_the_SSH_protocol_work_-2.png)
+ÍNDICE<a name="id0"></a>
+
+## P2<a name="id3"></a>
+## ** 1 HTML5. Historia, curiosidades, características principales. **
+**HTML** es un lenguaje de marcado combina texto con instrucciones codificadas sobre cómo darle formato a ese texto, usando el término de *"etiquetas"*.
+HTML5 es un lenguaje de marcado que fue fundado en 2004 por el Grupo de Trabajo de Tecnología de Aplicaciones de Hipertexto Web (WHATWG).
+Como dato de curiosidad, los elementos semánticos comunes de HTML5:
+- <article>
+- <aside>
+- <details>
+- <figcaption>
+- <figure>
+- <footer>
+- <header>
+- <main>
+- <mark>
+- <nav>
+- <section>
+- <summary>
+- <time>
+ 
+ Algunas de las características de **HTML5** son:
+- **Introducción de audio y video** : Las etiquetas de audio y video son las dos principales adiciones a HTML5. Permite a los desarrolladores incrustar un video o audio en su sitio web.
+- **Gráficos vectoriales**:Se puede usar para dibujar gráficos con varias formas y colores a través de secuencias de comandos, generalmente JS
+- Encabezado y pie de página: con estas nuevas etiquetas, ya no es necesario identificar los dos elementos con una etiqueta <div>. El pie de página se coloca al final de la página web, mientras que el encabezado se coloca al principio de la página web. Al usar los elementos HTML5 <header> y <footer> correspondientemente, el navegador sabrá qué cargar primero y qué cargar después.
+- **Etiqueta de navegación:**  La etiqueta <nav> define un conjunto de enlaces de navegación.
+ 
+![HTML](https://acumbamail.com/blog/wp-content/uploads/2014/10/maquetacion-email-html.png)
+ 
+
+
