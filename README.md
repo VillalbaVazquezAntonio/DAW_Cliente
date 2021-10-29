@@ -132,19 +132,19 @@ El protocolo SSH en redes corporativas, por ejemplo:
 **HTML** es un lenguaje de marcado combina texto con instrucciones codificadas sobre cómo darle formato a ese texto, usando el término de *"etiquetas"*.
 HTML5 es un lenguaje de marcado que fue fundado en 2004 por el Grupo de Trabajo de Tecnología de Aplicaciones de Hipertexto Web.
 Como dato de curiosidad, los elementos semánticos comunes de HTML5:
-- <article>
-- <aside>
-- <details>
-- <figcaption>
-- <figure>
-- <footer>
-- <header>
-- <main>
-- <mark>
-- <nav>
-- <section>
-- <summary>
-- <time>
+- article
+- aside
+- details
+- figcaption
+- figure
+- footer
+- header
+- main
+- mark
+- nav
+- section
+- summary
+- time
  
  Algunas de las características de **HTML5** son:
 - **Introducción de audio y video** : Las etiquetas de audio y video son las dos principales adiciones a HTML5. Permite a los desarrolladores incrustar un video o audio en su sitio web.
