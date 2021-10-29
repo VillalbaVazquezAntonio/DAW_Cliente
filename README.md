@@ -1,8 +1,13 @@
 
-## **Índice**   
-0. [Práctica 0](#id0)
-1. [Práctica 1](#id1)
-## P0<a name="id0"></a>
+## **Índice**
+[INICIO](#id0)
+
+0. [Práctica 0](#id1)
+1. [Práctica 1](#id2)
+2. [Práctica 2](#id3)
+3. [Práctica 3](#id4)
+4. [Práctica 1](#id5)
+## P0<a name="id1"></a>
 # DAW_Cliente
  👋 Hola, soy Antonio Javier Villalba Vázquez
 
@@ -18,7 +23,7 @@
 ## 👀 Me interesa
 > Me interesa mucho todo lo relacionado con la ciberseguridad.
 
-## P1<a name="id1"></a>
+## P1<a name="id2"></a>
 ## **1 .Ataque DoS y DDos. Información sobre cada uno de estos conceptos y un detallar un ejemplo destacado sobre cada uno de estos.**
 Los ataques de negación suelen ser los más usados por los ciberdelincuentes en el mundo.
 El objetivo principal de estos tipos de ataques es dejar inutilizable el sistema, una determinada aplicación o máquina, con la finalidad de bloquear dicho servicio al que va destinado el ataque.
@@ -108,6 +113,8 @@ Un dato importante es que el protocolo FTP era muy inseguro, por lo que la infor
 
 ![FTP](https://i.blogs.es/79ad1f/conectarte/1366_2000.jpg)
 
+
+
 **SSH**
 SSH o Secure Shell es un protocolo de comunicación de red que permite que dos computadoras se comuniquen y poder compartir datos. Una ventaja de ssh es que la comunicación entre dos ordenadores encriptados, lo que significa que se puede usar en redes privada/seguras.
 El protocolo SSH en redes corporativas, por ejemplo:
@@ -118,3 +125,72 @@ El protocolo SSH en redes corporativas, por ejemplo:
 - Administrar la infraestructura de red y otros componentes del sistema de misión crítica.
 
 ![SSH](https://www.ssh.com/hubfs/Imported_Blog_Media/How_does_the_SSH_protocol_work_-2.png)
+[INICIO]<a name="id0"></a>
+
+## P2<a name="id3"></a>
+## ** 1 HTML5. Historia, curiosidades, características principales. **
+**HTML** es un lenguaje de marcado combina texto con instrucciones codificadas sobre cómo darle formato a ese texto, usando el término de *"etiquetas"*.
+HTML5 es un lenguaje de marcado que fue fundado en 2004 por el Grupo de Trabajo de Tecnología de Aplicaciones de Hipertexto Web.
+Como dato de curiosidad, los elementos semánticos comunes de HTML5:
+- article
+- aside
+- details
+- figcaption
+- figure
+- footer
+- header
+- main
+- mark
+- nav
+- section
+- summary
+- time
+ 
+ Algunas de las características de **HTML5** son:
+- **Introducción de audio y video** : Las etiquetas de audio y video son las dos principales adiciones a HTML5. Permite a los desarrolladores incrustar un video o audio en su sitio web.
+- **Gráficos vectoriales**:Se puede usar para dibujar gráficos con varias formas y colores a través de secuencias de comandos, generalmente JS
+- Encabezado y pie de página: con estas nuevas etiquetas, ya no es necesario identificar los dos elementos con una etiqueta <div>. El pie de página se coloca al final de la página web, mientras que el encabezado se coloca al principio de la página web. Al usar los elementos HTML5 <header> y <footer> correspondientemente, el navegador sabrá qué cargar primero y qué cargar después.
+- **Etiqueta de navegación:**  La etiqueta <nav> define un conjunto de enlaces de navegación.
+ 
+![HTML](https://acumbamail.com/blog/wp-content/uploads/2014/10/maquetacion-email-html.png)
+ 
+ ÍNDICE<a name="id0"></a>
+ 
+ ## ** 2. CSS3. Historia, curiosidades, características principales. **
+ CSS es una de las tres tecnologías fundamentales que se utilizan en la web (las otras dos son HTML y JavaScript). CSS son las siglas de Cascading Style Sheets: las pistas están realmente en las palabras 'cascada' y 'estilo' con cascada que describe la forma en que un estilo puede pasar de uno a otro.
+ 
+Uno de los muchos beneficios de CSS es que se puede utilizar más de un estilo en un documento HTML.
+El primer sitio en el que Lie probó CSS fue el navegador web Arena. Desde su primera creación, Lie pasó a crear conjuntamente las versiones * CSS1, CSS2 y RFC 2318 * con Tim Berners-Lee y Robert Cailliau. En su primera década de existencia (1994 - 2004) CSS, en todas sus especificaciones, se convirtió en un estándar web establecido que influyó en gran medida en el aspecto y la accesibilidad de la World Wide Web tal como la conocemos hoy. CSS3 se publicó en 1999.
+Algunas de sus características son: esquinas redondeadas, sombras, degradados, transiciones o animaciones , así como nuevos diseños como múltiples columnas, cajas flexibles o diseños de cuadrícula.
+
+ ![CSS](https://s3-us-west-2.amazonaws.com/devcodepro/media/tutorials/pseudoclases-css-first-child-last-child-nth-child-t1.png)
+ 
+ ## ** 3. JavaScript. Historia, curiosidades, características principales. **
+ 
+JavaScript es un lenguaje de secuencias de comandos, es uno de los tres lenguajes principales que se utilizan para desarrollar páginas web, en resumen, JavaScript nos permite agregar funcionalidad y comportamientos a su sitio web, lo que permite que los visitantes de su sitio web interactúen con el contenido de muchas formas. JavaScript es principalmente un lenguaje del lado del cliente (Front-end), lo que significa que se ejecuta en su ordenador dentro de su navegador. Sin embargo, más recientemente, la introducción de Node.js ha permitido que JavaScript también ejecute código en los servidores (Back-end).
+En septiembre de 1995, un programador de Netscape llamado Brandan Eich desarrolló un nuevo lenguaje de programación en solo 10 días...asombroso. Originalmente se llamaba Mocha, pero rápidamente se conoció como LiveScript y, más tarde, JavaScript.
+Algunas características de JS pueden ser:
+- **Validación de la entrada del usuario**
+JavaScript es muy útil al usar formularios por ejemplo, ya que tiene la capacidad de validar la entrada del usuario en busca de errores y también ahorra tiempo.
+- **Cálculos sencillos del lado del cliente**
+Ya que JavaScript es una tecnología del lado del cliente, puede realizar cálculos básicos en el navegador.  Mayor control
+JavaScript proporciona un mayor control al navegador en lugar de depender completamente de los servidores web. 
+- **Independiente de la plataforma**
+JavaScript puede ejecutarse en Windows, Macintosh y otros sistemas compatibles con Netscape. 
+-  **Manejo de fechas y horas**
+A diferencia de otros lenguajes de programación, JavaScript tiene funciones integradas para determinar la fecha y la hora. 
+ - **Generación de contenido HTML**
+JavaScript tiene características muy útiles para generar contenido HTML de forma dinámica para la web. Nos permite agregar texto, enlaces, imágenes, tablas, etc. después de que ocurra un evento (por ejemplo, clic del mouse).
+
+ ![JS](https://st2.myideasoft.com/idea/ct/82/myassets/blogs/javascript-kutuphane-platform.jpg)
+ 
+  ## ** 4. ¿Qué son WebKit y Blink? WebKit. Historia, curiosidades, características principales e información básica sobre este.
+Ejemplos de navegadores web que usen WebKit, Blink y otro similar que encuentren. **
+ 
+ WebKit y Blink ambos son motores de navegación.
+En el caso de WebKit es un motor de navegador desarrollado por Apple y utilizado principalmente en su navegador web Safari, así como en todos los navegadores web iOS. WebKit también es utilizado por el navegador BlackBerry, las consolas PlayStation a partir de la PS3, los sistemas operativos móviles Tizen y un navegador incluido con el lector de libros electrónicos Amazon Kindle. La interfaz de programación de aplicaciones (API) C ++ de WebKit proporciona un conjunto de clases para mostrar contenido web en Windows e implementa funciones del navegador como seguir enlaces cuando el usuario hace clic, administrar una lista hacia atrás y administrar un historial de páginas visitadas recientemente.
+Blink es un motor de navegador desarrollado como parte del proyecto Chromium (desde 2013) con contribuciones de Google, Facebook, Microsoft, Opera Software, Adobe, Intel, IBM, Samsung y otros. Se anunció por primera vez en abril de 2013.
+ 
+ ![WebKit&Blink](https://schepp.dev/img/webkit.png)
+
+ 
