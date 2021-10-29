@@ -154,7 +154,7 @@ Como dato de curiosidad, los elementos semánticos comunes de HTML5:
  
 ![HTML](https://acumbamail.com/blog/wp-content/uploads/2014/10/maquetacion-email-html.png)
  
- ÍNDICE<a name="id0"></a>
+
  
  ## ** 2. CSS3. Historia, curiosidades, características principales. **
  CSS es una de las tres tecnologías fundamentales que se utilizan en la web (las otras dos son HTML y JavaScript). CSS son las siglas de Cascading Style Sheets: las pistas están realmente en las palabras 'cascada' y 'estilo' con cascada que describe la forma en que un estilo puede pasar de uno a otro.
@@ -184,13 +184,14 @@ JavaScript tiene características muy útiles para generar contenido HTML de for
 
  ![JS](https://st2.myideasoft.com/idea/ct/82/myassets/blogs/javascript-kutuphane-platform.jpg)
  
-  ## ** 4. ¿Qué son WebKit y Blink? WebKit. Historia, curiosidades, características principales e información básica sobre este.
-Ejemplos de navegadores web que usen WebKit, Blink y otro similar que encuentren. **
+  ## ** 4. ¿Qué son WebKit y Blink? WebKit. Historia, curiosidades, características principales e información básica sobre este. Ejemplos de navegadores web que usen WebKit, Blink y otro similar que encuentren. **
  
  WebKit y Blink ambos son motores de navegación.
 En el caso de WebKit es un motor de navegador desarrollado por Apple y utilizado principalmente en su navegador web Safari, así como en todos los navegadores web iOS. WebKit también es utilizado por el navegador BlackBerry, las consolas PlayStation a partir de la PS3, los sistemas operativos móviles Tizen y un navegador incluido con el lector de libros electrónicos Amazon Kindle. La interfaz de programación de aplicaciones (API) C ++ de WebKit proporciona un conjunto de clases para mostrar contenido web en Windows e implementa funciones del navegador como seguir enlaces cuando el usuario hace clic, administrar una lista hacia atrás y administrar un historial de páginas visitadas recientemente.
 Blink es un motor de navegador desarrollado como parte del proyecto Chromium (desde 2013) con contribuciones de Google, Facebook, Microsoft, Opera Software, Adobe, Intel, IBM, Samsung y otros. Se anunció por primera vez en abril de 2013.
  
  ![WebKit&Blink](https://schepp.dev/img/webkit.png)
+ 
+ [INICIO]<a name="id0"></a>
 
  
