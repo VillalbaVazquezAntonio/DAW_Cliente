@@ -214,10 +214,10 @@ En el caso de WebKit es un motor de navegador desarrollado por Apple y utilizado
 TypeScript es un lenguaje de programación desarrollado por Microsoft. El lenguaje viene con una ampliación de programación orientada a objetos basada en clases, así como escritura estática opcional en JavaScript. Es posible crear aplicaciones JavaScript para el lado del cliente o del servidor utilizando TypeScript.
 Además, el lenguaje admite archivos de definición que contienen información de tipo de las bibliotecas JavaScript actuales. Esta característica es bastante similar a los archivos de encabezado en los lenguajes C o C ++ que describen la estructura de los archivos de objetos actuales. Como resultado, otros programas pueden hacer uso de estos valores y actuar como entidades que se escribieron estáticamente usando TypeScript.
 TypeScript es un lenguaje relativamente nuevo. Fue lanzado para uso público en octubre de 2012. Fue el resultado de dos años de desarrollo en Microsoft, con Anders Hejlsberg, el arquitecto principal de c #, así como el creador de Delphi y Turbo Pascal trabajando también en el proyecto.
- **JavaScript** :  
+ - **JavaScript** :  
 Se puede utilizar directamente en navegadores.
 Las bibliotecas JS funcionan de forma predeterminada
- **TypeScript**:
+- **TypeScript**:
 Convertido a código JavaScript para que sea comprensible para los navegadores.
 Dado que es un superconjunto, todas las bibliotecas de JavaScript y otros códigos de JavaScript funcionan sin cambios.
   ![TypeScript](https://miro.medium.com/max/1400/1*5yBOYWrozMMR4eOIASxmeg.png)
@@ -229,10 +229,10 @@ Los tres son framework. **Angular** es un marco de Javascript creado con Typescr
 ## 3 .React. Historia, curiosidades, características principales.
 React fue creado por Jordan Walke, un ingeniero de software de Facebook, quien lanzó un primer prototipo de React llamado "FaxJS". Fue influenciado por XHP,  *una biblioteca de componentes HTML para PHP)*. Se implementó por primera vez en el News Feed de Facebook en 2011 y luego en Instagram en 2012. Fue de código abierto en JSConf US en mayo de 2013.
 Algunas características de React son:
-**JSX: extensión de sintaxis de JavaScript**. Se usa con React para describir cómo debería verse la interfaz de usuario.
-**DOM virtual:** React mantiene una representación ligera del DOM "real" en la memoria, y eso se conoce como DOM "virtual".
-**Rendimiento**. React usa VDOM, lo que hace que las aplicaciones web se ejecuten mucho más rápido que las desarrolladas con marcos frontales alternativos
-**Extensiones**. Proporciona renderizado del lado del servidor, lo que implica renderizar una aplicación web normalmente del lado del cliente en el servidor, y luego envía una página completamente renderizada al cliente.
+- **JSX: extensión de sintaxis de JavaScript**. Se usa con React para describir cómo debería verse la interfaz de usuario.
+- **DOM virtual:** React mantiene una representación ligera del DOM "real" en la memoria, y eso se conoce como DOM "virtual".
+- **Rendimiento**. React usa VDOM, lo que hace que las aplicaciones web se ejecuten mucho más rápido que las desarrolladas con marcos frontales alternativos
+- **Extensiones**. Proporciona renderizado del lado del servidor, lo que implica renderizar una aplicación web normalmente del lado del cliente en el servidor, y luego envía una página completamente renderizada al cliente.
  </br>
  # HAZ CLIC EN LA IMAGEN PARA VER EL VÍDEO 
  
@@ -240,13 +240,13 @@ Algunas características de React son:
 
  
 ## 4 .Angular. Historia, curiosidades, características principales.
-El framework **Angular** nació en *2010*, antes de su lanzamiento, un empleado de Google llamado Miško Hevery estaba desarrollando un proyecto paralelo. Este proyecto paralelo tenía como objetivo facilitar la creación de aplicaciones web para un par de proyectos internos en los que estaba trabajando. Este proyecto paralelo más tarde se conoció como **AngularJS** (Angular debido al <> en HTML).
+El framework **Angular** nació en *2010*, antes de su lanzamiento, un empleado de Google llamado Miško Hevery estaba desarrollando un proyecto paralelo. Este proyecto paralelo tenía como objetivo facilitar la creación de aplicaciones web para un par de proyectos internos en los que estaba trabajando. Este proyecto paralelo más tarde se conoció como - **AngularJS** (Angular debido al <> en HTML).
 Años más tarde, entre la fecha 2014-2015, el panorama del desarrollo web comenzó a cambiar y AngularJS chocó contra una pared.
 Algunas características generales de Angular son:
-**Multiplataforma**: con Angular ,se pueden desarrollar aplicaciones web progresivas (PWA). 
-**Alta velocidad y rendimiento óptimo**: Angular redefine la máquina virtual JavaScript moderna convirtiendo las plantillas en código.
-**Arquitectura Modelo Vista y Controlador** : MVC son las siglas de Model-View-Controller. Los datos de la aplicación son gestionados por el modelo y Vista que gestiona la visualización de datos. Mientras que el controlador juega como un conector entre la vista y las capas del modelo.
-**Enlace de datos bidireccional eficiente**: la característica de Angular más efectiva es su sistema de enlace de datos bidireccional. La capa vista representa exactamente la capa modelo y se mantienen en perfecta sincronización. Si realiza algún cambio en el modelo, los usuarios pueden ver en el modelo de vista automáticamente.
+- **Multiplataforma**: con Angular ,se pueden desarrollar aplicaciones web progresivas (PWA). 
+- **Alta velocidad y rendimiento óptimo**: Angular redefine la máquina virtual JavaScript moderna convirtiendo las plantillas en código.
+- **Arquitectura Modelo Vista y Controlador** : MVC son las siglas de Model-View-Controller. Los datos de la aplicación son gestionados por el modelo y Vista que gestiona la visualización de datos. Mientras que el controlador juega como un conector entre la vista y las capas del modelo.
+- **Enlace de datos bidireccional eficiente**: la característica de Angular más efectiva es su sistema de enlace de datos bidireccional. La capa vista representa exactamente la capa modelo y se mantienen en perfecta sincronización. Si realiza algún cambio en el modelo, los usuarios pueden ver en el modelo de vista automáticamente.
 
  # HAZ CLIC EN LA IMAGEN PARA VER EL VÍDEO
 [![HAZ CLIC EN LA IMAGEN](https://i.ytimg.com/vi/mog8EKQX5HI/maxresdefault.jpg)](https://www.youtube.com/watch?v=kqYuyACFVkE&ab_channel=VictorRoblesWEB)
@@ -255,34 +255,34 @@ Algunas características generales de Angular son:
 **VueJS** es un marco de JavaScript progresivo de código abierto que se utiliza para desarrollar interfaces web interactivas. Es uno de los marcos famosos que se utilizan para simplificar el desarrollo web. **VueJS** se centra en la capa de vista. Se puede integrar fácilmente en grandes proyectos para el desarrollo de *front-end *sin ningún problema.
 La instalación de **VueJS** es muy fácil de comenzar. Cualquier desarrollador puede comprender y crear interfaces web interactivas fácilmente en cuestión de tiempo. **VueJS** es creado por Evan You, un ex empleado de Google. La primera versión de **VueJS** se lanzó en *febrero de 2014*. Recientemente ha alcanzado las *64,828 estrellas en GitHub*, lo que la hace muy popular.
 Algunas de sus características son: 
-**DOM virtual**
+- **DOM virtual**
 VueJS hace uso de DOM virtual, que también es utilizado por otros frameworks como React, Ember, etc. Los cambios no se realizan en el DOM, sino que se crea una réplica del DOM que está presente en forma de estructuras de datos JavaScript. . Siempre que se deben realizar cambios, se realizan en las estructuras de datos de JavaScript y esta última se compara con la estructura de datos original. Los cambios finales luego se actualizan al DOM real, que el usuario verá cambiar. Esto es bueno en términos de optimización, es menos costoso y los cambios se pueden realizar a un ritmo más rápido.
  
-**El enlace de datos**
+- **El enlace de datos**
 La función de enlace de datos ayuda a manipular o asignar valores a los atributos HTML, cambiar el estilo, asignar clases con la ayuda de la directiva de enlace llamada v-bind disponible con VueJS.
  
-**Componentes**
+- **Componentes**
 Los componentes son una de las características importantes de VueJS que ayuda a crear elementos personalizados, que se pueden reutilizar en HTML.
  
-**Manejo de eventos**
+- **Manejo de eventos**
 v-on es el atributo agregado a los elementos DOM para escuchar los eventos en VueJS.
  
-**Animación / Transición**
+- **Animación / Transición**
 VueJS proporciona varias formas de aplicar la transición a los elementos HTML cuando se agregan, actualizan o eliminan del DOM. VueJS tiene un componente de transición incorporado que debe envolverse alrededor del elemento para lograr un efecto de transición. Podemos agregar fácilmente bibliotecas de animación de terceros y también agregar más interactividad a la interfaz.
  
-**Propiedades calculadas**
+- **Propiedades calculadas**
 Esta es una de las características importantes de VueJS. Ayuda a escuchar los cambios realizados en los elementos de la interfaz de usuario y realiza los cálculos necesarios. No hay necesidad de codificación adicional para esto.
  
-**Plantillas**
+- **Plantillas**
 VueJS proporciona plantillas basadas en HTML que unen el DOM con los datos de la instancia de Vue. Vue compila las plantillas en funciones virtuales DOM Render. Podemos hacer uso de la plantilla de las funciones de render y para ello tenemos que reemplazar la plantilla con la función de render.
  
-**Directivas**
+- **Directivas**
 VueJS tiene directivas integradas como v-if, v-else, v-show, v-on, v-bind y v-model, que se utilizan para realizar varias acciones en la interfaz.
  
-**Vigilantes**
+- **Vigilantes**
 Los observadores se aplican a los datos que cambian. Por ejemplo, elementos de entrada de formulario. Aquí, no tenemos que agregar ningún evento adicional. Watcher se encarga de manejar cualquier cambio de datos haciendo que el código sea simple y rápido.
  
-**Enrutamiento**
+- **Enrutamiento**
 La navegación entre páginas se realiza con la ayuda de vue-router.
 
 
