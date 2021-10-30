@@ -200,7 +200,7 @@ En el caso de WebKit es un motor de navegador desarrollado por Apple y utilizado
    
    
  
- ## P3<a name="id3"></a>
+ ## P3<a name="id4"></a>
  
  
  ## 1.TypeScript. Historia, curiosidades, características principales. Similitudes con JavaScript. ##
@@ -227,7 +227,7 @@ Algunas características de React son:
 **Rendimiento**. React usa VDOM, lo que hace que las aplicaciones web se ejecuten mucho más rápido que las desarrolladas con marcos frontales alternativos
 ** Extensiones **. Proporciona renderizado del lado del servidor, lo que implica renderizar una aplicación web normalmente del lado del cliente en el servidor, y luego envía una página completamente renderizada al cliente.
  
- ![REACT](<iframe width="560" height="315" src="https://www.youtube.com/embed/EMk6nom1aS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/EMk6nom1aS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 ## 4 .Angular. Historia, curiosidades, características principales. ##
 El framework **Angular** nació en *2010*, antes de su lanzamiento, un empleado de Google llamado Miško Hevery estaba desarrollando un proyecto paralelo. Este proyecto paralelo tenía como objetivo facilitar la creación de aplicaciones web para un par de proyectos internos en los que estaba trabajando. Este proyecto paralelo más tarde se conoció como **AngularJS** (Angular debido al <> en HTML).
