@@ -24,6 +24,8 @@
 ## 👀 Me interesa
 > Me interesa mucho todo lo relacionado con la ciberseguridad.
 
+<br/><br/><br/><br/> 
+
 ## P1<a name="id2"></a>
 ## **1 .Ataque DoS y DDos. Información sobre cada uno de estos conceptos y un detallar un ejemplo destacado sobre cada uno de estos.**
 Los ataques de negación suelen ser los más usados por los ciberdelincuentes en el mundo.
@@ -128,6 +130,9 @@ El protocolo SSH en redes corporativas, por ejemplo:
 ![SSH](https://www.ssh.com/hubfs/Imported_Blog_Media/How_does_the_SSH_protocol_work_-2.png)
 [INICIO](#id0)
 
+
+<br/><br/>
+<br/><br/>
 ## P2<a name="id3"></a>
 ##  1 HTML5. Historia, curiosidades, características principales. 
 **HTML** es un lenguaje de marcado combina texto con instrucciones codificadas sobre cómo darle formato a ese texto, usando el término de *"etiquetas"*.
@@ -195,10 +200,7 @@ En el caso de WebKit es un motor de navegador desarrollado por Apple y utilizado
  
  [INICIO](#id0)
    
-   
-   
-   
-   
+<br/><br/><br/><br/>
  
  ## P3<a name="id4"></a>
  
@@ -227,7 +229,7 @@ Algunas características de React son:
 **Rendimiento**. React usa VDOM, lo que hace que las aplicaciones web se ejecuten mucho más rápido que las desarrolladas con marcos frontales alternativos
 ** Extensiones **. Proporciona renderizado del lado del servidor, lo que implica renderizar una aplicación web normalmente del lado del cliente en el servidor, y luego envía una página completamente renderizada al cliente.
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/EMk6nom1aS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![HAZ CLIC EN LA IMAGEN](https://camo.githubusercontent.com/ce291792f690fc12f3f510e251e9b1c32ddc5994b08b31f5454774629d4095ca/687474703a2f2f662e636c2e6c792f6974656d732f3434304633593077316c3239336733653367334e2f636f7665722e706e67)](https://www.youtube.com/watch?v=EMk6nom1aS4&ab_channel=CarlosAzaustre-AprendeJavaScript)
  
 ## 4 .Angular. Historia, curiosidades, características principales. ##
 El framework **Angular** nació en *2010*, antes de su lanzamiento, un empleado de Google llamado Miško Hevery estaba desarrollando un proyecto paralelo. Este proyecto paralelo tenía como objetivo facilitar la creación de aplicaciones web para un par de proyectos internos en los que estaba trabajando. Este proyecto paralelo más tarde se conoció como **AngularJS** (Angular debido al <> en HTML).
