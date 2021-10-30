@@ -38,6 +38,7 @@ Durante este ataque, el tráfico de la plataforma se multiplicó por 51.000. A p
 La técnica DDoS (Distributed Denial of Service) es más utilizada que la técnica DoS, su diferencia reside en que que son ataques de bots (ordenadores zombis que se conectan a la vez al servidor que pretenden tumbar) distribuidos, que se realizan masivamente desde diferentes máquinas. 
 Un ejemplo que me llamó mucho la atención de este tipo de ataques fue el que se dio en 2016 “se cae” y paraliza el mundo por horas”. Este ataque se cebó contra la empresa americana proveedora de Internet DynDNS, se cataloga como un ataque brutal que dejó en jaque y que afectó a grandes organizaciones y medios de comunicación internacionales como Netflix, Twitter,  Amazon o The New York Times, dejando inhabilitados todos sus servicios durantes horas. La mejor forma, sin duda, de “acabar” con Internet es mediante un ataque DDoS (como el que sufrió DynDNS), y cómo algunas de las empresas que tienen a su cargo la infraestructura básica que sostiene a internet están sufriendo este tipo de ataques de forma continua, en lo que parece una estrategia de recogida de información para ver hasta qué punto pueden aguantar y con qué defensas cuentan.
 ![Ataque DDoS](https://rockcontent.com/es/wp-content/uploads/sites/3/2020/05/Qu%C3%A9-es-un-ataque-ddos.jpg)
+</br>
  ## **2. URI.**
 URI (identificador de recursos uniforme) esta idea fue concebida por Tim Berners-Lee y sirve para acceder a un recurso físico o abstracto de internet, es decir,I es el camino para identificar cualquiera de esos puntos de contenido, ya sea una página de texto, un vídeo o un clip de sonido, una imagen fija o animada, o un programa. 
 La URI tiene como objetivo, y como su propio nombre en definición nos indica, identificar los recursos de una red de forma particular. Este objetivo se lleva a cabo gracias a las siguientes partes:
@@ -52,7 +53,7 @@ La URI tiene como objetivo, y como su propio nombre en definición nos indica, i
 Una de las diferencias entre URL y URI es que tanto la URL como el URN se encuentran dentro del URI.
 URL es un conjunto de letras y símbolos que identifica un recurso, habitualmente una página concreta, dentro de una web. Con las URL podemos conseguir que cada página o cada entrada, disponga de una dirección propia y concreta para visualizarse en nuestro navegador.
 URN son muy parecidos a las URL, ya que identifican recursos en la web, pero con alguna diferencia en este caso con respecto a  las URL, ya que éstas no indican exactamente dónde se encuentra ese objeto.
-
+</br>
 ## **3. Protocolos de seguridad SSL y TLS y cuándo es usado cada uno.**
 El protocolo SSL es un protocolo criptográfico (técnicas de cifrado o codificado destinadas a alterar las representaciones lingüísticas de ciertos mensajes con el fin de hacerlos ininteligibles a receptores no autorizados), proporcionando en los datos una integridad y privacidad entre dos puntos/comunicaciones, como podría ser el caso de app más usada en comunicación, WhatSapp, comunicación “supuestamente” entre dos puntos con total privacidad entre los mensajes de punto a punto, garantizando una transmisión de la información a través de la red sin ser modificada ni interceptada, dando garantías de que sólo los receptores y emisores serán los que tengan acceso a la comunicación de manera íntima.
 Si nos basamos en el modelo OSI, el protocolo SSL se utiliza entre la capa de aplicación y la capa de transporte. Uno de sus usos, es el que se realiza junto al protocolo HTTP, dando lugar al HTTPS. De esta forma se consigue que la información transmitida entre un sitio web y un usuario (en ambos sentidos), sea segura, sobre todo cuando se trata de información sensible: datos confidenciales, contraseñas, información bancaria, imágenes personales, entre otros.
@@ -71,7 +72,7 @@ Llegados a este punto, el navegador generará una clave simétrica, que será ci
 
 - De esta forma, la comunicación ya se ha establecido de manera segura, y será cifrada en ambos sentidos mediante la clave generada en el punto anterior.
 
-
+</br>
 
 ## **4. Cifrado DES. Información detallada, porqué ya no es usado de forma asidua y ejemplos sobre este tipo de cifrado.**
 Data Encryption Standar es un algoritmo protito de cifrado (un método para cifrar información) por bloques. Se creó con objeto de proporcionar al público en general un algoritmo de cifrado normalizado para redes de ordenadores.
@@ -85,7 +86,7 @@ Desde sus inicios, no se ha roto con un sistema real.
 Des actualmente no suele utilizarse debido a que es inseguro para muchas aplicaciones, esto es porque la longitud de clave de 56 bits es corto, las claves de DES se han roto en menos de 24 horas.
 Por ejemplo, si tomamos el mensaje de texto plano "8787878787878787" y lo ciframos con la clave DES "0E329232EA6D0D73", terminamos con el texto cifrado "0000000000000000". Si el texto cifrado se descifra con la misma clave DES secreta "0E329232EA6D0D73", el resultado es el texto sin formato original "8787878787878787".
 Este ejemplo es limpio y ordenado porque nuestro texto sin formato tenía exactamente 64 bits de longitud. Lo mismo sería si el texto sin formato fuera un múltiplo de 64 bits, pero la mayoría de los mensajes no entran en esta categoría. No serán un múltiplo exacto de 64 bits (es decir, un múltiplo exacto de 16 números hexadecimales).
-
+</br>
 ## 5. Ataque MID Información detallada sobre este tipo de ataque y ejemplo que explique su funcionamiento. Mencionar también un ejemplo conocido de ataque MID.
 
 Este ataque es un método mediante el cual los hackers informáticos interceptan el tráfico de datos de dos partes involucradas en una conexión, haciéndose pasar por una de ellas, haciéndoles creer que se están comunicando entre sí cuando en realidad es el intermediario el que recibe la conexión. 
@@ -108,7 +109,7 @@ Existen diferentes tipos de ataques MID:
 
 (No encontré ningún ejemplo al respecto pero puedo decirte uno que comentamos con un profesor en clase que se podría realizar con este tipo de ataque)
 Si nos conectamos a una red inhámbrica wifi, suplantando su identidad para que los clientes de dicho establecimiento crean que es la original del sitio, y a partir de ahí podremos acceder a todos sus datos.
-
+</br>
 ## 5. Ampliar la información proporcionada por el temario sobre las herramientas FTP y SSH.
 **FTP** significa Protocolo de transferencia de archivos, que se traduce aproximadamente como Protocolo de transferencia de archivos. Como sugiere su nombre, se trata de un protocolo que permite transferir archivos directamente de un dispositivo a otro. Es un protocolo que se ha eliminado ahora, pero que ha estado en vigor durante más de 50 años.
 Este protocolo funciona entre pc´s conectados a una red TCP(Protocolo de control de transmisión). Este protocolo TCP admite muchas tecnologías, incluida Internet. 
@@ -116,7 +117,7 @@ Un dato importante es que el protocolo FTP era muy inseguro, por lo que la infor
 
 ![FTP](https://i.blogs.es/79ad1f/conectarte/1366_2000.jpg)
 
-
+</br>
 
 **SSH**
 SSH o Secure Shell es un protocolo de comunicación de red que permite que dos computadoras se comuniquen y poder compartir datos. Una ventaja de ssh es que la comunicación entre dos ordenadores encriptados, lo que significa que se puede usar en redes privada/seguras.
@@ -126,6 +127,7 @@ El protocolo SSH en redes corporativas, por ejemplo:
 - Transferencias de archivos interactivas y automatizadas
 - Emitir comandos remotos
 - Administrar la infraestructura de red y otros componentes del sistema de misión crítica.
+
 
 ![SSH](https://www.ssh.com/hubfs/Imported_Blog_Media/How_does_the_SSH_protocol_work_-2.png)
 [INICIO](#id0)
@@ -160,7 +162,7 @@ Como dato de curiosidad, los elementos semánticos comunes de HTML5:
  
 ![HTML](https://acumbamail.com/blog/wp-content/uploads/2014/10/maquetacion-email-html.png)
  
-
+</br>
  
  ##  2. CSS3. Historia, curiosidades, características principales. 
  CSS es una de las tres tecnologías fundamentales que se utilizan en la web (las otras dos son HTML y JavaScript). CSS son las siglas de Cascading Style Sheets: las pistas están realmente en las palabras 'cascada' y 'estilo' con cascada que describe la forma en que un estilo puede pasar de uno a otro.
@@ -170,7 +172,7 @@ El primer sitio en el que Lie probó CSS fue el navegador web *Arena*. Desde su 
 Algunas de sus características son: esquinas redondeadas, sombras, degradados, transiciones o animaciones , así como nuevos diseños como múltiples columnas, cajas flexibles o diseños de cuadrícula.
 
  ![CSS](https://s3-us-west-2.amazonaws.com/devcodepro/media/tutorials/pseudoclases-css-first-child-last-child-nth-child-t1.png)
- 
+ </br>
  ## 3. JavaScript. Historia, curiosidades, características principales. 
  
 **JavaScript** es un lenguaje de secuencias de comandos, es uno de los tres lenguajes principales que se utilizan para desarrollar páginas web, en resumen, JavaScript nos permite agregar funcionalidad y comportamientos a su sitio web, lo que permite que los visitantes de su sitio web interactúen con el contenido de muchas formas. JavaScript es principalmente un lenguaje del lado del cliente *(Front-end)*, lo que significa que se ejecuta en su ordenador dentro de su navegador. Sin embargo, más recientemente, la introducción de Node.js ha permitido que JavaScript también ejecute código en los servidores *(Back-end)*.
@@ -189,7 +191,7 @@ A diferencia de otros lenguajes de programación, JavaScript tiene funciones int
 JavaScript tiene características muy útiles para generar contenido HTML de forma dinámica para la web. Nos permite agregar texto, enlaces, imágenes, tablas, etc. después de que ocurra un evento (por ejemplo, clic del mouse).
 
  ![JS](https://st2.myideasoft.com/idea/ct/82/myassets/blogs/javascript-kutuphane-platform.jpg)
- 
+ </br>
   ## 4. ¿Qué son WebKit y Blink? WebKit. Historia, curiosidades, características principales e información básica sobre este. Ejemplos de navegadores web que usen WebKit, Blink y otro similar que encuentren. 
  
  WebKit y Blink ambos son motores de navegación.
@@ -217,10 +219,10 @@ Convertido a código JavaScript para que sea comprensible para los navegadores.
 Dado que es un superconjunto, todas las bibliotecas de JavaScript y otros códigos de JavaScript funcionan sin cambios.
   ![TypeScript](https://miro.medium.com/max/1400/1*5yBOYWrozMMR4eOIASxmeg.png)
  
- 
+ </br>
 ## 2 .¿Qué son React, Angular y Vue.js? ##
 Los tres son framework. **Angular** es un marco de Javascript creado con Typescript, mientras que Reactjs es una biblioteca de Javascript y creado con JSX. Angular se usa principalmente para crear aplicaciones complejas de nivel empresarial como aplicaciones de una sola página y aplicaciones web progresivas, mientras que React se usa para crear componentes de interfaz de usuario en cualquier aplicación con datos variables. La curva de aprendizaje de Angular es más pronunciada debido a que tiene demasiadas funcionalidades integradas, mientras que el tamaño del paquete de React es más pequeño.
- 
+ </br>
 ## 3 .React. Historia, curiosidades, características principales. ##
 React fue creado por Jordan Walke, un ingeniero de software de Facebook, quien lanzó un primer prototipo de React llamado "FaxJS". Fue influenciado por XHP,  **una biblioteca de componentes HTML para PHP) *. Se implementó por primera vez en el News Feed de Facebook en 2011 y luego en Instagram en 2012. Fue de código abierto en JSConf US en mayo de 2013.
 Algunas características de React son:
@@ -228,8 +230,9 @@ Algunas características de React son:
 **DOM virtual:** React mantiene una representación ligera del DOM "real" en la memoria, y eso se conoce como DOM "virtual".
 **Rendimiento**. React usa VDOM, lo que hace que las aplicaciones web se ejecuten mucho más rápido que las desarrolladas con marcos frontales alternativos
 ** Extensiones **. Proporciona renderizado del lado del servidor, lo que implica renderizar una aplicación web normalmente del lado del cliente en el servidor, y luego envía una página completamente renderizada al cliente.
- 
+ # HAZ CLIC EN LA IMAGEN PARA VER EL VÍDEO #
 [![HAZ CLIC EN LA IMAGEN](https://camo.githubusercontent.com/ce291792f690fc12f3f510e251e9b1c32ddc5994b08b31f5454774629d4095ca/687474703a2f2f662e636c2e6c792f6974656d732f3434304633593077316c3239336733653367334e2f636f7665722e706e67)](https://www.youtube.com/watch?v=EMk6nom1aS4&ab_channel=CarlosAzaustre-AprendeJavaScript)
+ </br>
  
 ## 4 .Angular. Historia, curiosidades, características principales. ##
 El framework **Angular** nació en *2010*, antes de su lanzamiento, un empleado de Google llamado Miško Hevery estaba desarrollando un proyecto paralelo. Este proyecto paralelo tenía como objetivo facilitar la creación de aplicaciones web para un par de proyectos internos en los que estaba trabajando. Este proyecto paralelo más tarde se conoció como **AngularJS** (Angular debido al <> en HTML).
@@ -239,6 +242,10 @@ Algunas características generales de Angular son:
 ** Alta velocidad y rendimiento óptimo **: Angular redefine la máquina virtual JavaScript moderna convirtiendo las plantillas en código.
 ** Arquitectura Modelo Vista y Controlador ** : MVC son las siglas de Model-View-Controller. Los datos de la aplicación son gestionados por el modelo y Vista que gestiona la visualización de datos. Mientras que el controlador juega como un conector entre la vista y las capas del modelo.
 ** Enlace de datos bidireccional eficiente **: la característica de Angular más efectiva es su sistema de enlace de datos bidireccional. La capa vista representa exactamente la capa modelo y se mantienen en perfecta sincronización. Si realiza algún cambio en el modelo, los usuarios pueden ver en el modelo de vista automáticamente.
+
+ # HAZ CLIC EN LA IMAGEN PARA VER EL VÍDEO #
+[![HAZ CLIC EN LA IMAGEN](https://i.ytimg.com/vi/mog8EKQX5HI/maxresdefault.jpg)](https://www.youtube.com/watch?v=kqYuyACFVkE&ab_channel=VictorRoblesWEB)
+</br>
 ## 5 .Vue.js. Historia, curiosidades, características principales. ##
 **VueJS** es un marco de JavaScript progresivo de código abierto que se utiliza para desarrollar interfaces web interactivas. Es uno de los marcos famosos que se utilizan para simplificar el desarrollo web. **VueJS** se centra en la capa de vista. Se puede integrar fácilmente en grandes proyectos para el desarrollo de* front-end *sin ningún problema.
 La instalación de **VueJS** es muy fácil de comenzar. Cualquier desarrollador puede comprender y crear interfaces web interactivas fácilmente en cuestión de tiempo. **VueJS** es creado por Evan You, un ex empleado de Google. La primera versión de **VueJS** se lanzó en *febrero de 2014*. Recientemente ha alcanzado las *64,828 estrellas en GitHub*, lo que la hace muy popular.
@@ -273,5 +280,7 @@ Los observadores se aplican a los datos que cambian. Por ejemplo, elementos de e
 **Enrutamiento**
 La navegación entre páginas se realiza con la ayuda de vue-router.
 
+
+ </br>
 [INICIO](#id0)
  
