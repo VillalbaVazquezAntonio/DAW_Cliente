@@ -219,10 +219,10 @@ Convertido a código JavaScript para que sea comprensible para los navegadores.
 Dado que es un superconjunto, todas las bibliotecas de JavaScript y otros códigos de JavaScript funcionan sin cambios.
   ![TypeScript](https://miro.medium.com/max/1400/1*5yBOYWrozMMR4eOIASxmeg.png)
  
- </br>
-## 2 .¿Qué son React, Angular y Vue.js?
+
+## 2 .¿Qué son React, Angular y Vue.js?.
 Los tres son framework. **Angular** es un marco de Javascript creado con Typescript, mientras que Reactjs es una biblioteca de Javascript y creado con JSX. Angular se usa principalmente para crear aplicaciones complejas de nivel empresarial como aplicaciones de una sola página y aplicaciones web progresivas, mientras que React se usa para crear componentes de interfaz de usuario en cualquier aplicación con datos variables. La curva de aprendizaje de Angular es más pronunciada debido a que tiene demasiadas funcionalidades integradas, mientras que el tamaño del paquete de React es más pequeño.
- </br>
+ 
 ## 3 .React. Historia, curiosidades, características principales.
 React fue creado por Jordan Walke, un ingeniero de software de Facebook, quien lanzó un primer prototipo de React llamado "FaxJS". Fue influenciado por XHP,  **una biblioteca de componentes HTML para PHP) *. Se implementó por primera vez en el News Feed de Facebook en 2011 y luego en Instagram en 2012. Fue de código abierto en JSConf US en mayo de 2013.
 Algunas características de React son:
@@ -234,7 +234,7 @@ Algunas características de React son:
  # HAZ CLIC EN LA IMAGEN PARA VER EL VÍDEO 
  
 [![HAZ CLIC EN LA IMAGEN](https://www.loopeando.com/wp-content/uploads/2019/05/react-logo-990x557.png)](https://www.youtube.com/watch?v=EMk6nom1aS4&ab_channel=CarlosAzaustre-AprendeJavaScript)
-</br>
+
  
 ## 4 .Angular. Historia, curiosidades, características principales.
 El framework **Angular** nació en *2010*, antes de su lanzamiento, un empleado de Google llamado Miško Hevery estaba desarrollando un proyecto paralelo. Este proyecto paralelo tenía como objetivo facilitar la creación de aplicaciones web para un par de proyectos internos en los que estaba trabajando. Este proyecto paralelo más tarde se conoció como **AngularJS** (Angular debido al <> en HTML).
@@ -247,7 +247,7 @@ Algunas características generales de Angular son:
 
  # HAZ CLIC EN LA IMAGEN PARA VER EL VÍDEO
 [![HAZ CLIC EN LA IMAGEN](https://i.ytimg.com/vi/mog8EKQX5HI/maxresdefault.jpg)](https://www.youtube.com/watch?v=kqYuyACFVkE&ab_channel=VictorRoblesWEB)
-</br>
+
 ## 5 .Vue.js. Historia, curiosidades, características principales.
 **VueJS** es un marco de JavaScript progresivo de código abierto que se utiliza para desarrollar interfaces web interactivas. Es uno de los marcos famosos que se utilizan para simplificar el desarrollo web. **VueJS** se centra en la capa de vista. Se puede integrar fácilmente en grandes proyectos para el desarrollo de* front-end *sin ningún problema.
 La instalación de **VueJS** es muy fácil de comenzar. Cualquier desarrollador puede comprender y crear interfaces web interactivas fácilmente en cuestión de tiempo. **VueJS** es creado por Evan You, un ex empleado de Google. La primera versión de **VueJS** se lanzó en *febrero de 2014*. Recientemente ha alcanzado las *64,828 estrellas en GitHub*, lo que la hace muy popular.
@@ -283,6 +283,5 @@ Los observadores se aplican a los datos que cambian. Por ejemplo, elementos de e
 La navegación entre páginas se realiza con la ayuda de vue-router.
 
 
- </br>
 [INICIO](#id0)
  
