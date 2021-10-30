@@ -204,7 +204,7 @@ En el caso de WebKit es un motor de navegador desarrollado por Apple y utilizado
    
 <br/><br/><br/><br/>
  
- ## P3<a name="id4"></a>
+ # P3<a name="id4"></a> 
  
  
  ## 1.TypeScript. Historia, curiosidades, características principales. Similitudes con JavaScript. ##
@@ -230,8 +230,8 @@ Algunas características de React son:
 **DOM virtual:** React mantiene una representación ligera del DOM "real" en la memoria, y eso se conoce como DOM "virtual".
 **Rendimiento**. React usa VDOM, lo que hace que las aplicaciones web se ejecuten mucho más rápido que las desarrolladas con marcos frontales alternativos
 ** Extensiones **. Proporciona renderizado del lado del servidor, lo que implica renderizar una aplicación web normalmente del lado del cliente en el servidor, y luego envía una página completamente renderizada al cliente.
- # HAZ CLIC EN LA IMAGEN PARA VER EL VÍDEO #
-[![HAZ CLIC EN LA IMAGEN](https://camo.githubusercontent.com/ce291792f690fc12f3f510e251e9b1c32ddc5994b08b31f5454774629d4095ca/687474703a2f2f662e636c2e6c792f6974656d732f3434304633593077316c3239336733653367334e2f636f7665722e706e67)](https://www.youtube.com/watch?v=EMk6nom1aS4&ab_channel=CarlosAzaustre-AprendeJavaScript)
+ ### HAZ CLIC EN LA IMAGEN PARA VER EL VÍDEO ###
+[![HAZ CLIC EN LA IMAGEN](https://www.loopeando.com/wp-content/uploads/2019/05/react-logo-990x557.png)](https://www.youtube.com/watch?v=EMk6nom1aS4&ab_channel=CarlosAzaustre-AprendeJavaScript)
  </br>
  
 ## 4 .Angular. Historia, curiosidades, características principales. ##
