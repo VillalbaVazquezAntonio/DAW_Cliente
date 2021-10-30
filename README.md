@@ -230,9 +230,10 @@ Algunas características de React son:
 **DOM virtual:** React mantiene una representación ligera del DOM "real" en la memoria, y eso se conoce como DOM "virtual".
 **Rendimiento**. React usa VDOM, lo que hace que las aplicaciones web se ejecuten mucho más rápido que las desarrolladas con marcos frontales alternativos
 ** Extensiones **. Proporciona renderizado del lado del servidor, lo que implica renderizar una aplicación web normalmente del lado del cliente en el servidor, y luego envía una página completamente renderizada al cliente.
- # HAZ CLIC EN LA IMAGEN PARA VER EL VÍDEO
- [![HAZ CLIC EN LA IMAGEN](https://i.ytimg.com/vi/mog8EKQX5HI/maxresdefault.jpg)](https://www.youtube.com/watch?v=EMk6nom1aS4&ab_channel=CarlosAzaustre-AprendeJavaScript)
- </br>
+ # HAZ CLIC EN LA IMAGEN PARA VER EL VÍDEO #
+ 
+[![HAZ CLIC EN LA IMAGEN](https://www.loopeando.com/wp-content/uploads/2019/05/react-logo-990x557.png)](https://www.youtube.com/watch?v=EMk6nom1aS4&ab_channel=CarlosAzaustre-AprendeJavaScript)
+</br>
  
 ## 4 .Angular. Historia, curiosidades, características principales. ##
 El framework **Angular** nació en *2010*, antes de su lanzamiento, un empleado de Google llamado Miško Hevery estaba desarrollando un proyecto paralelo. Este proyecto paralelo tenía como objetivo facilitar la creación de aplicaciones web para un par de proyectos internos en los que estaba trabajando. Este proyecto paralelo más tarde se conoció como **AngularJS** (Angular debido al <> en HTML).
