@@ -230,8 +230,8 @@ Algunas características de React son:
 **DOM virtual:** React mantiene una representación ligera del DOM "real" en la memoria, y eso se conoce como DOM "virtual".
 **Rendimiento**. React usa VDOM, lo que hace que las aplicaciones web se ejecuten mucho más rápido que las desarrolladas con marcos frontales alternativos
 ** Extensiones **. Proporciona renderizado del lado del servidor, lo que implica renderizar una aplicación web normalmente del lado del cliente en el servidor, y luego envía una página completamente renderizada al cliente.
- ### HAZ CLIC EN LA IMAGEN PARA VER EL VÍDEO ###
-[![HAZ CLIC EN LA IMAGEN](https://www.loopeando.com/wp-content/uploads/2019/05/react-logo-990x557.png)](https://www.youtube.com/watch?v=EMk6nom1aS4&ab_channel=CarlosAzaustre-AprendeJavaScript)
+ # HAZ CLIC EN LA IMAGEN PARA VER EL VÍDEO
+ [![HAZ CLIC EN LA IMAGEN](https://i.ytimg.com/vi/mog8EKQX5HI/maxresdefault.jpg)](https://www.youtube.com/watch?v=EMk6nom1aS4&ab_channel=CarlosAzaustre-AprendeJavaScript)
  </br>
  
 ## 4 .Angular. Historia, curiosidades, características principales. ##
