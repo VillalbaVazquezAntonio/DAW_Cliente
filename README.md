@@ -7,7 +7,7 @@
 1. [Práctica 1](#id2)
 2. [Práctica 2](#id3)
 3. [Práctica 3](#id4)
-4. [Práctica 1](#id5)
+4. [Práctica 4](#id5)
 
 
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
@@ -304,4 +304,29 @@ La navegación entre páginas se realiza con la ayuda de vue-router.
 - **Code time:** esta extensión contabiliza nuestro tiempo de desarrollo y nos proporciona estadística como; cuántas horas tiene código hoy, etc.
 - **Settings Sync:** cuando utilizo código de Visual Studio en ambos ordenadores, sin embargo, no queremos volver a configurarlo todo, instalamos la extensión Setting Sync. Crea y almacena tu configuración en Github gist y sincroniza donde quieras.
 
+</br>
+## 2. JSON.
+**JSON** *(JavaScript Object Notation)* es un formato ligero de intercambio de datos. Es fácil para los programadores leer y escribir. Es fácil para los ordenadores analizar y generar. Se basa en un subconjunto del estándar de lenguaje de programación *JavaScript ECMA-262 3.ª edición - diciembre de 1999*. **JSON** es un formato de texto que es completamente independiente del lenguaje, pero utiliza convenciones que son familiares para los programadores de la familia de lenguajes *C, incluido C, C ++, C #, Java, JavaScript, Perl, Python y muchos otros*. Estas propiedades hacen de **JSON** un lenguaje de intercambio de datos perfecto para trabajar.
+
+**JSON** se basa en dos estructuras:
+
+Una colección de pares de *nombre / valor. En varios idiomas*, esto se realiza como un objeto , registro, estructura, diccionario, tabla hash, lista con clave o matriz asociativa.
+Una lista ordenada de valores. En la mayoría de los lenguajes, esto se realiza como una matriz , vector, lista o secuencia.
+Estas son estructuras de datos universales. Prácticamente todos los lenguajes de programación modernos los admiten de una forma u otra. Tiene sentido que un formato de datos que sea intercambiable con lenguajes de programación que también se basen en estas estructuras.
+
+</br>
+## 3. XML.
+**El lenguaje de marcado extensible ( XML )** es un lenguaje de marcado que define un conjunto de reglas para codificar documentos en un formato que es legible por programadores y por una máquina. 
+
+XML tiene una variedad de usos para aplicaciones web, de comercio electrónico y portátiles.
+
+Las siguientes son algunas de las muchas aplicaciones para las que XML es útil:
+- **Publicación web :** XML le permite crear páginas interactivas, permite al cliente personalizar esas páginas y hace que la creación de aplicaciones de comercio electrónico sea más intuitiva. Con XML, almacena los datos una vez y luego procesa ese contenido para diferentes visores o dispositivos según el procesamiento de la hoja de estilo - utilizando un procesador de Lenguaje de estilo extensible (XSL) / Transformación XSL (XSLT).
+- **Búsqueda web y automatización de tareas web:** XML define el tipo de información contenida en un documento, lo que facilita la obtención de resultados útiles al realizar búsquedas en la web:
+Por ejemplo, es probable que el uso de HTML para buscar libros escritos por Tom Brown arroje instancias del término 'marrón' fuera del contexto del autor. El uso de XML restringe la búsqueda al contexto correcto (por ejemplo, la información contenida en la etiqueta <author>) y devuelve solo la información que desea. Al utilizar XML, los agentes web y los robots (programas que automatizan las búsquedas web u otras tareas) son más eficientes y producen resultados más útiles.
+
+- **Aplicaciones generales:** XML proporciona un método estándar para acceder a la información, lo que facilita el uso, almacenamiento, transmisión y visualización de datos de aplicaciones y dispositivos de todo tipo.
+- **Aplicaciones de comercio electrónico:** las implementaciones XML hacen que el intercambio electrónico de datos (EDI) sea más accesible para el intercambio de información, las transacciones de empresa a empresa y las transacciones de empresa a consumidor.
+- **Aplicaciones de metadatos:** XML facilita la expresión de metadatos en un formato portátil y reutilizable.
+- **Computación omnipresente :** XML proporciona tipos de información estructurada y portátil para mostrar en dispositivos informáticos omnipresentes (inalámbricos) como asistentes digitales personales (PDA), teléfonos celulares y otros. Por ejemplo, WML *(Wireless Markup Language)* y VoiceXML son estándares en evolución para describir interfaces de dispositivos inalámbricos visuales y controlados por voz.
  
