@@ -287,4 +287,21 @@ La navegación entre páginas se realiza con la ayuda de vue-router.
 
 
 [INICIO](#id0)
+
+</br></br></br>
+ # P4<a name="id5"></a> </br>
+## 1. Visual Studio Code y Visual Studio (Community Edition 2019). Extensiones que tengan interés respecto a los lenguajes y herramientas utilizados en clase.
+- **Javascript (ES6) Code Snippets:** hay muchos fragmentos de código que usamos a diario y esta extensión nos va a ayudar a no escribir ese código repetitivo una y otra vez ahorrando tiempo en nuestra producción..
+- **CSS Peek:** esta extensión nos permite saltar al código CSS usando clases e ID con ctrl + clic.
+- **Auto Close Tag:** esta extensión agrega automáticamente la etiqueta de cierre de HTML y XML.
+- **ESLint:** verifica nuestro código en busca de errores y nos informa en el propio editor
+- **Prettier – Code formatter:**  esta extensión realiza el formateo del código JavaScript, CSS y HTML.
+- **Path Intellisense:** esta extensión acelera el tiempo de desarrollo al completar automáticamente los nombres de los archivos.
+- **GitLens:** con GitLens, es muy fácil ver la autoría del código, verificar el número de confirmación, ver los cambios entre la última confirmación y los cambios existentes, etc.
+- **Project Manager:** sirve para trabajar y manejar varios proyectos en nuestra carpeta de VSC 
+- **Live Server:** muy útil para el diseño de páginas webs ya que nos permite ver en tiempo real nuestros cambios realizados en VSC.
+- **Better Comments:** ésta extensión nos ayuda a crear comentarios más “vistosos” y fáciles de leer.
+- **Code time:** esta extensión contabiliza nuestro tiempo de desarrollo y nos proporciona estadística como; cuántas horas tiene código hoy, etc.
+- **Settings Sync:** cuando utilizo código de Visual Studio en ambos ordenadores, sin embargo, no queremos volver a configurarlo todo, instalamos la extensión Setting Sync. Crea y almacena tu configuración en Github gist y sincroniza donde quieras.
+
  
