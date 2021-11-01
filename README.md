@@ -306,7 +306,7 @@ La navegación entre páginas se realiza con la ayuda de vue-router.
 
 </br>
 ## 2. JSON.
-**JSON** *(JavaScript Object Notation)* es un formato ligero de intercambio de datos. Es fácil para los programadores leer y escribir. Es fácil para los ordenadores analizar y generar. Se basa en un subconjunto del estándar de lenguaje de programación *JavaScript ECMA-262 3.ª edición - diciembre de 1999*. **JSON** es un formato de texto que es completamente independiente del lenguaje, pero utiliza convenciones que son familiares para los programadores de la familia de lenguajes *C, incluido C, C ++, C #, Java, JavaScript, Perl, Python y muchos otros*. Estas propiedades hacen de **JSON** un lenguaje de intercambio de datos perfecto para trabajar.
+**JSON** (JavaScript Object Notation) es un formato ligero de intercambio de datos. Es fácil para los programadores leer y escribir. Es fácil para los ordenadores analizar y generar. Se basa en un subconjunto del estándar de lenguaje de programación *JavaScript ECMA-262 3.ª edición - diciembre de 1999*. **JSON** es un formato de texto que es completamente independiente del lenguaje, pero utiliza convenciones que son familiares para los programadores de la familia de lenguajes C, incluido C, C ++, C #, Java, JavaScript, Perl, Python y muchos otros. Estas propiedades hacen de **JSON** un lenguaje de intercambio de datos perfecto para trabajar.
 
 **JSON** se basa en dos estructuras:
 
@@ -321,12 +321,45 @@ Estas son estructuras de datos universales. Prácticamente todos los lenguajes d
 XML tiene una variedad de usos para aplicaciones web, de comercio electrónico y portátiles.
 
 Las siguientes son algunas de las muchas aplicaciones para las que XML es útil:
-- **Publicación web :** XML le permite crear páginas interactivas, permite al cliente personalizar esas páginas y hace que la creación de aplicaciones de comercio electrónico sea más intuitiva. Con XML, almacena los datos una vez y luego procesa ese contenido para diferentes visores o dispositivos según el procesamiento de la hoja de estilo - utilizando un procesador de Lenguaje de estilo extensible (XSL) / Transformación XSL (XSLT).
-- **Búsqueda web y automatización de tareas web:** XML define el tipo de información contenida en un documento, lo que facilita la obtención de resultados útiles al realizar búsquedas en la web:
-Por ejemplo, es probable que el uso de HTML para buscar libros escritos por Tom Brown arroje instancias del término 'marrón' fuera del contexto del autor. El uso de XML restringe la búsqueda al contexto correcto (por ejemplo, la información contenida en la etiqueta <author>) y devuelve solo la información que desea. Al utilizar XML, los agentes web y los robots (programas que automatizan las búsquedas web u otras tareas) son más eficientes y producen resultados más útiles.
-
+- **Publicación web:** XML le permite crear páginas interactivas, permite al cliente personalizar esas páginas y hace que la creación de aplicaciones de comercio electrónico sea más intuitiva. Con XML, almacena los datos una vez y luego procesa ese contenido para diferentes visores o dispositivos según el procesamiento de la hoja de estilo - utilizando un procesador de Lenguaje de estilo extensible (XSL) / Transformación XSL (XSLT).
+- **Búsqueda web y automatización de tareas web:** XML define el tipo de información contenida en un documento, lo que facilita la obtención de resultados útiles al realizar búsquedas en la web: por ejemplo, es probable que el uso de HTML para buscar libros escritos por Dawn Brown arroje instancias del término 'marrón' fuera del contexto del autor. El uso de XML restringe la búsqueda al contexto correcto (por ejemplo, la información contenida en la etiqueta author) y devuelve solo la información que desea. Al utilizar XML, los agentes web y los robots (programas que automatizan las búsquedas web u otras tareas) son más eficientes y producen resultados más útiles.
 - **Aplicaciones generales:** XML proporciona un método estándar para acceder a la información, lo que facilita el uso, almacenamiento, transmisión y visualización de datos de aplicaciones y dispositivos de todo tipo.
 - **Aplicaciones de comercio electrónico:** las implementaciones XML hacen que el intercambio electrónico de datos (EDI) sea más accesible para el intercambio de información, las transacciones de empresa a empresa y las transacciones de empresa a consumidor.
 - **Aplicaciones de metadatos:** XML facilita la expresión de metadatos en un formato portátil y reutilizable.
 - **Computación omnipresente :** XML proporciona tipos de información estructurada y portátil para mostrar en dispositivos informáticos omnipresentes (inalámbricos) como asistentes digitales personales (PDA), teléfonos celulares y otros. Por ejemplo, WML *(Wireless Markup Language)* y VoiceXML son estándares en evolución para describir interfaces de dispositivos inalámbricos visuales y controlados por voz.
+
+</br>
+## 1. JQuery.
+**jQuery** es un marco creado con JavaScript. Ayuda a los desarrolladores web a agregar funcionalidades adicionales a sus sitios web. Es la biblioteca de JavaScript más popular utilizada para recorrer y manipular el árbol DOM de HTML. Además, simplifica el manejo de eventos, la animación CSS y Ajax.
+Es mucho más simple con una API fácil de usar que funciona en una multitud de navegadores. Hace que sus páginas web sean más interactivas, sencillas y mejora la experiencia del usuario. Le proporciona varias funciones visuales, como efectos de entrada y salida, que la convierten en una de las opciones preferidas por los diseñadores web.
+**jQuery** se usa para tomar muchas tareas comunes que requieren muchas líneas de código JavaScript y las agrupa en varios métodos. Este método se puede llamar con una sola línea de código. Por lo cual, facilita el uso de JavaScript en su sitio web. Al explicar la diferencia entre Javascript y jQuery, *Skillcrush* dice, *"JavaScript es un lenguaje de programación independiente, mientras que jQuery es una colección de código JavaScript (no su propio lenguaje)".*
+
+A continuación se muestran las características importantes de **jQuery.**
+- Manipulación HTML
+- Manipulación DOM
+- Selección de elementos DOM
+- Manipulación de CSS
+- Efectos y animaciones
+- Utilidades
+- AJAX
+- Métodos de eventos HTML
+- Análisis JSON
+- Extensibilidad a través de complementos.
+
+A veces, puede surgir la pregunta de cuál es la necesidad de usar jQuery o qué diferencia hace usar jQuery en lugar de *AJAX o JavaScript*. 
+
+- Es muy rápido y extensible.
+- Facilita a los usuarios escribir códigos de función relacionados con la interfaz de usuario en el mínimo de líneas posibles.
+- Mejora el rendimiento de una aplicación.
+- Se pueden desarrollar aplicaciones web compatibles con el navegador.
+- Utiliza principalmente funciones nuevas de nuevos navegadores.
+
+Entonces, puede decir que de la gran cantidad de marcos de JavaScript, jQuery es el más popular y el más ampliable. Muchas de las empresas más grandes de la web utilizan jQuery.
+
+Algunas de estas empresas son:
+
+- Microsoft
+- Google
+- IBM
+- Netflix
  
