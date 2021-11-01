@@ -332,7 +332,7 @@ Las siguientes son algunas de las muchas aplicaciones para las que XML es útil:
 ## 4. JQuery. </br>
 **jQuery** es un marco creado con JavaScript. Ayuda a los desarrolladores web a agregar funcionalidades adicionales a sus sitios web. Es la biblioteca de JavaScript más popular utilizada para recorrer y manipular el árbol DOM de HTML. Además, simplifica el manejo de eventos, la animación CSS y Ajax.
 Es mucho más simple con una API fácil de usar que funciona en una multitud de navegadores. Hace que sus páginas web sean más interactivas, sencillas y mejora la experiencia del usuario. Le proporciona varias funciones visuales, como efectos de entrada y salida, que la convierten en una de las opciones preferidas por los diseñadores web.
-**jQuery** se usa para tomar muchas tareas comunes que requieren muchas líneas de código JavaScript y las agrupa en varios métodos. Este método se puede llamar con una sola línea de código. Por lo cual, facilita el uso de JavaScript en su sitio web. Al explicar la diferencia entre Javascript y jQuery, *Skillcrush* dice, *"JavaScript es un lenguaje de programación independiente, mientras que jQuery es una colección de código JavaScript (no su propio lenguaje)".*
+**jQuery** se usa para tomar muchas tareas comunes que requieren muchas líneas de código JavaScript y las agrupa en varios métodos. Este método se puede llamar con una sola línea de código. Por lo cual, facilita el uso de JavaScript en su sitio web. Al explicar la diferencia entre Javascript y jQuery, > Skillcrush dice, JavaScript es un lenguaje de programación independiente, mientras que jQuery es una colección de código JavaScript (no su propio lenguaje).
 
 A continuación se muestran las características importantes de **jQuery.**
 - Manipulación HTML
@@ -384,11 +384,11 @@ En **GML**, una característica puede tener varias propiedades geométricas que 
 Por ejemplo, una característica de construcción en un esquema de aplicación GML particular podría tener una posición dada por el tipo de objeto de geometría GML primitivo Punto . Sin embargo, el Edificio es una entidad separada del Punto que define su posición. Además, una entidad puede tener varias propiedades geométricas (o ninguna), por ejemplo, una extensión y una posición.
 </br></br></br></br>
 # APA.
- ![Pregunta_1](https://marketplace.visualstudio.com/VSCode)
- ![Pregunta_2](https://es.wikipedia.org/wiki/JSON)
-  ![Pregunta_3](https://es.wikipedia.org/wiki/Extensible_Markup_Language)
-   ![Pregunta_4](https://es.wikipedia.org/wiki/JQuery)
-    ![Pregunta_5](https://es.wikipedia.org/wiki/SGML)
-    ![Pregunta_5](https://www.gmlplus.es/que-es-un-gml/)
+ [Pregunta_1](https://marketplace.visualstudio.com/VSCode)
+ [Pregunta_2](https://es.wikipedia.org/wiki/JSON)
+  [Pregunta_3](https://es.wikipedia.org/wiki/Extensible_Markup_Language)
+   [Pregunta_4](https://es.wikipedia.org/wiki/JQuery)
+    [Pregunta_5](https://es.wikipedia.org/wiki/SGML)
+    [Pregunta_5](https://www.gmlplus.es/que-es-un-gml/)
 </br></br></br></br>
 [INICIO](#id0)
