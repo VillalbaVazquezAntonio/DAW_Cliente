@@ -330,7 +330,7 @@ Las siguientes son algunas de las muchas aplicaciones para las que XML es útil:
 - **Computación omnipresente :** XML proporciona tipos de información estructurada y portátil para mostrar en dispositivos informáticos omnipresentes (inalámbricos) como asistentes digitales personales (PDA), teléfonos celulares y otros. Por ejemplo, WML *(Wireless Markup Language)* y VoiceXML son estándares en evolución para describir interfaces de dispositivos inalámbricos visuales y controlados por voz.
 
 </br>
-## 4. JQuery
+## **4. JQuery.**
 </br>
 **jQuery** es un marco creado con JavaScript. Ayuda a los desarrolladores web a agregar funcionalidades adicionales a sus sitios web. Es la biblioteca de JavaScript más popular utilizada para recorrer y manipular el árbol DOM de HTML. Además, simplifica el manejo de eventos, la animación CSS y Ajax.
 Es mucho más simple con una API fácil de usar que funciona en una multitud de navegadores. Hace que sus páginas web sean más interactivas, sencillas y mejora la experiencia del usuario. Le proporciona varias funciones visuales, como efectos de entrada y salida, que la convierten en una de las opciones preferidas por los diseñadores web.
@@ -367,7 +367,7 @@ Algunas de estas empresas son:
  
   ![JQuery](https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/200.gif)
  </br>
- ## 5. SGML y GML. 
+ ## **5. SGML y GML.** 
  </br>
  Ambos son lenguajes de lenguaje de marcado generalizado, que derivaron al actual HTML5.
  **SGML** El lenguaje de marcado generalizado estándar *SGML* es un lenguaje de marcado de texto que sirve como un superconjunto de lenguajes de marcado ampliamente utilizados como HTML (lenguaje de marcado de hipertexto) y XML (lenguaje de marcado extensible).
@@ -385,6 +385,8 @@ GML define características distintas de los objetos geométricos . Una caracter
 En **GML**, una característica puede tener varias propiedades geométricas que describen aspectos geométricos o características de la característica (por ejemplo, las propiedades de Punto o Extensión de la característica). GML también ofrece la posibilidad de que las entidades compartan una propiedad geométrica entre sí mediante el uso de una referencia de propiedad remota en la propiedad geométrica compartida. Las propiedades remotas son una característica general de GML tomada de RDF. Un atributo xlink: href en una propiedad de geometría GML significa que el valor de la propiedad es el recurso al que se hace referencia en el enlace.
 
 Por ejemplo, una característica de construcción en un esquema de aplicación GML particular podría tener una posición dada por el tipo de objeto de geometría GML primitivo Punto . Sin embargo, el Edificio es una entidad separada del Punto que define su posición. Además, una entidad puede tener varias propiedades geométricas (o ninguna), por ejemplo, una extensión y una posición.
+</br></br>
+![bibliografía](https://studio.edx.org/asset-v1:JaverianaX+CuiAdu.1701x12+2T2017+type@asset+block@BANNER-BIBLIOGRAFIA.JPG) </br>
 </br></br></br></br>
 # APA.
  [Pregunta_1](https://marketplace.visualstudio.com/VSCode) </br>
