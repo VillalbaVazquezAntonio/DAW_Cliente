@@ -306,7 +306,7 @@ La navegación entre páginas se realiza con la ayuda de vue-router.
 
  ![visualStrudioCode](https://discover.egafutura.com/wp-content/uploads/2021/04/10-extensiones-de-vs-code-que-potenciaran-su-desarrollo-de-salesforce.gif)
 </br>
-## 2. JSON. </br>
+## 2. JSON. 
 **JSON** (JavaScript Object Notation) es un formato ligero de intercambio de datos. Es fácil para los programadores leer y escribir. Es fácil para los ordenadores analizar y generar. Se basa en un subconjunto del estándar de lenguaje de programación *JavaScript ECMA-262 3.ª edición - diciembre de 1999*. **JSON** es un formato de texto que es completamente independiente del lenguaje, pero utiliza convenciones que son familiares para los programadores de la familia de lenguajes C, incluido C, C ++, C #, Java, JavaScript, Perl, Python y muchos otros. Estas propiedades hacen de **JSON** un lenguaje de intercambio de datos perfecto para trabajar.
 
 **JSON** se basa en dos estructuras:
@@ -315,7 +315,7 @@ Una lista ordenada de valores. En la mayoría de los lenguajes, esto se realiza 
 Estas son estructuras de datos universales. Prácticamente todos los lenguajes de programación modernos los admiten de una forma u otra. Tiene sentido que un formato de datos que sea intercambiable con lenguajes de programación que también se basen en estas estructuras.
 
 </br>
-## 3. XML. </br>
+## 3. XML. 
 **El lenguaje de marcado extensible ( XML )** es un lenguaje de marcado que define un conjunto de reglas para codificar documentos en un formato que es legible por programadores y por una máquina. 
 
 XML tiene una variedad de usos para aplicaciones web, de comercio electrónico y portátiles.
@@ -365,7 +365,7 @@ Algunas de estas empresas son:
  
   ![JQuery](https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/200.gif)
  </br>
- # 5. SGML y GML. 
+ ## 5 SGML y GML. 
  Ambos son lenguajes de lenguaje de marcado generalizado, que derivaron al actual HTML5.
  **SGML** El lenguaje de marcado generalizado estándar *SGML* es un lenguaje de marcado de texto que sirve como un superconjunto de lenguajes de marcado ampliamente utilizados como HTML (lenguaje de marcado de hipertexto) y XML (lenguaje de marcado extensible).
 
@@ -384,11 +384,11 @@ En **GML**, una característica puede tener varias propiedades geométricas que 
 Por ejemplo, una característica de construcción en un esquema de aplicación GML particular podría tener una posición dada por el tipo de objeto de geometría GML primitivo Punto . Sin embargo, el Edificio es una entidad separada del Punto que define su posición. Además, una entidad puede tener varias propiedades geométricas (o ninguna), por ejemplo, una extensión y una posición.
 </br></br></br></br>
 # APA.
- [Pregunta_1](https://marketplace.visualstudio.com/VSCode)
- [Pregunta_2](https://es.wikipedia.org/wiki/JSON)
-  [Pregunta_3](https://es.wikipedia.org/wiki/Extensible_Markup_Language)
-   [Pregunta_4](https://es.wikipedia.org/wiki/JQuery)
-    [Pregunta_5](https://es.wikipedia.org/wiki/SGML)
-    [Pregunta_5](https://www.gmlplus.es/que-es-un-gml/)
-</br></br></br></br>
+ [Pregunta_1](https://marketplace.visualstudio.com/VSCode) </br>
+ [Pregunta_2](https://es.wikipedia.org/wiki/JSON) </br>
+  [Pregunta_3](https://es.wikipedia.org/wiki/Extensible_Markup_Language) </br>
+   [Pregunta_4](https://es.wikipedia.org/wiki/JQuery) </br>
+    [Pregunta_5](https://es.wikipedia.org/wiki/SGML) </br>
+    [Pregunta_5](https://www.gmlplus.es/que-es-un-gml/) </br>
+</br></br></br>
 [INICIO](#id0)
