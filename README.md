@@ -304,8 +304,9 @@ La navegación entre páginas se realiza con la ayuda de vue-router.
 - **Code time:** esta extensión contabiliza nuestro tiempo de desarrollo y nos proporciona estadística como; cuántas horas tiene código hoy, etc.
 - **Settings Sync:** cuando utilizo código de Visual Studio en ambos ordenadores, sin embargo, no queremos volver a configurarlo todo, instalamos la extensión Setting Sync. Crea y almacena tu configuración en Github gist y sincroniza donde quieras.
 
+ ![visualStrudioCode](https://discover.egafutura.com/wp-content/uploads/2021/04/10-extensiones-de-vs-code-que-potenciaran-su-desarrollo-de-salesforce.gif)
 </br>
-## 2. JSON. </br>
+##2. JSON. </br>
 **JSON** (JavaScript Object Notation) es un formato ligero de intercambio de datos. Es fácil para los programadores leer y escribir. Es fácil para los ordenadores analizar y generar. Se basa en un subconjunto del estándar de lenguaje de programación *JavaScript ECMA-262 3.ª edición - diciembre de 1999*. **JSON** es un formato de texto que es completamente independiente del lenguaje, pero utiliza convenciones que son familiares para los programadores de la familia de lenguajes C, incluido C, C ++, C #, Java, JavaScript, Perl, Python y muchos otros. Estas propiedades hacen de **JSON** un lenguaje de intercambio de datos perfecto para trabajar.
 
 **JSON** se basa en dos estructuras:
@@ -314,7 +315,7 @@ Una lista ordenada de valores. En la mayoría de los lenguajes, esto se realiza 
 Estas son estructuras de datos universales. Prácticamente todos los lenguajes de programación modernos los admiten de una forma u otra. Tiene sentido que un formato de datos que sea intercambiable con lenguajes de programación que también se basen en estas estructuras.
 
 </br>
-## 3. XML. </br>
+##3. XML. </br>
 **El lenguaje de marcado extensible ( XML )** es un lenguaje de marcado que define un conjunto de reglas para codificar documentos en un formato que es legible por programadores y por una máquina. 
 
 XML tiene una variedad de usos para aplicaciones web, de comercio electrónico y portátiles.
@@ -328,7 +329,7 @@ Las siguientes son algunas de las muchas aplicaciones para las que XML es útil:
 - **Computación omnipresente :** XML proporciona tipos de información estructurada y portátil para mostrar en dispositivos informáticos omnipresentes (inalámbricos) como asistentes digitales personales (PDA), teléfonos celulares y otros. Por ejemplo, WML *(Wireless Markup Language)* y VoiceXML son estándares en evolución para describir interfaces de dispositivos inalámbricos visuales y controlados por voz.
 
 </br>
-## 4. JQuery. </br>
+##4. JQuery. </br>
 **jQuery** es un marco creado con JavaScript. Ayuda a los desarrolladores web a agregar funcionalidades adicionales a sus sitios web. Es la biblioteca de JavaScript más popular utilizada para recorrer y manipular el árbol DOM de HTML. Además, simplifica el manejo de eventos, la animación CSS y Ajax.
 Es mucho más simple con una API fácil de usar que funciona en una multitud de navegadores. Hace que sus páginas web sean más interactivas, sencillas y mejora la experiencia del usuario. Le proporciona varias funciones visuales, como efectos de entrada y salida, que la convierten en una de las opciones preferidas por los diseñadores web.
 **jQuery** se usa para tomar muchas tareas comunes que requieren muchas líneas de código JavaScript y las agrupa en varios métodos. Este método se puede llamar con una sola línea de código. Por lo cual, facilita el uso de JavaScript en su sitio web. Al explicar la diferencia entre Javascript y jQuery, *Skillcrush* dice, *"JavaScript es un lenguaje de programación independiente, mientras que jQuery es una colección de código JavaScript (no su propio lenguaje)".*
@@ -363,22 +364,22 @@ Algunas de estas empresas son:
 - Netflix
  
  </br>
- # 5 SGML y GML. 
+ #5 SGML y GML. 
  Ambos son lenguajes de lenguaje de marcado generalizado, que derivaron al actual HTML5.
  **SGML** El lenguaje de marcado generalizado estándar *SGML* es un lenguaje de marcado de texto que sirve como un superconjunto de lenguajes de marcado ampliamente utilizados como HTML (lenguaje de marcado de hipertexto) y XML (lenguaje de marcado extensible).
 
-SGML se utiliza para marcar documentos y tiene la ventaja de no depender de una aplicación específica. Se deriva de GML (lenguaje de marcado generalizado), que permitió a los usuarios trabajar en estilos de formato estandarizados para documentos electrónicos.
+**SGML** se utiliza para marcar documentos y tiene la ventaja de no depender de una aplicación específica. Se deriva de GML (lenguaje de marcado generalizado), que permitió a los usuarios trabajar en estilos de formato estandarizados para documentos electrónicos.
 
 El lenguaje de marcado generalizado estándar presenta las siguientes características:
 - Marcado descriptivo
 - Tipos de documentos
 Otra característica importante del lenguaje de marcado generalizado estándar es su uso de tipos de documentos y, posteriormente, su uso de la definición de tipo de documento (DTD). Se espera que un tipo de documento en particular tenga partes específicas y una estructura específica. Por ejemplo, cuando hay una DTD para un informe, las partes y la estructura del documento deben seguir lo definido en la DTD para que se considere un informe. Un beneficio importante es que los documentos del mismo tipo pueden ser procesados uniformemente por todo el software capaz de procesarlos.
 
-GML es un lenguaje de marcado de geografía, es la gramática XML definida por el Consorcio Geoespacial Abierto para expresar características geográficas. GML sirve como lenguaje de modelado para sistemas geográficos, así como también como formato de intercambio abierto para transacciones geográficas en Internet. La clave de la utilidad de GML es su capacidad para integrar todas las formas de información geográfica, incluidos no sólo los *"vectores"* convencionales u objetos discretos, sino también las coberturas y los datos de los sensores.
+**GML** es un lenguaje de marcado de geografía, es la gramática XML definida por el Consorcio Geoespacial Abierto para expresar características geográficas. GML sirve como lenguaje de modelado para sistemas geográficos, así como también como formato de intercambio abierto para transacciones geográficas en Internet. La clave de la utilidad de GML es su capacidad para integrar todas las formas de información geográfica, incluidos no sólo los *"vectores"* convencionales u objetos discretos, sino también las coberturas y los datos de los sensores.
 GML define características distintas de los objetos geométricos . Una característica es un objeto de aplicación que representa una entidad física, por ejemplo, un edificio, un río o una persona. Una característica puede tener o no aspectos geométricos. Un objeto de geometría define una ubicación o región en lugar de una entidad física y, por lo tanto, es diferente de una característica .
 
-En GML, una característica puede tener varias propiedades geométricas que describen aspectos geométricos o características de la característica (por ejemplo, las propiedades de Punto o Extensión de la característica). GML también ofrece la posibilidad de que las entidades compartan una propiedad geométrica entre sí mediante el uso de una referencia de propiedad remota en la propiedad geométrica compartida. Las propiedades remotas son una característica general de GML tomada de RDF. Un atributo xlink: href en una propiedad de geometría GML significa que el valor de la propiedad es el recurso al que se hace referencia en el enlace.
+En **GML**, una característica puede tener varias propiedades geométricas que describen aspectos geométricos o características de la característica (por ejemplo, las propiedades de Punto o Extensión de la característica). GML también ofrece la posibilidad de que las entidades compartan una propiedad geométrica entre sí mediante el uso de una referencia de propiedad remota en la propiedad geométrica compartida. Las propiedades remotas son una característica general de GML tomada de RDF. Un atributo xlink: href en una propiedad de geometría GML significa que el valor de la propiedad es el recurso al que se hace referencia en el enlace.
 
 Por ejemplo, una característica de construcción en un esquema de aplicación GML particular podría tener una posición dada por el tipo de objeto de geometría GML primitivo Punto . Sin embargo, el Edificio es una entidad separada del Punto que define su posición. Además, una entidad puede tener varias propiedades geométricas (o ninguna), por ejemplo, una extensión y una posición.
-
-
+</br>
+[INICIO](#id0)
