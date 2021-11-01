@@ -382,5 +382,13 @@ GML define características distintas de los objetos geométricos . Una caracter
 En **GML**, una característica puede tener varias propiedades geométricas que describen aspectos geométricos o características de la característica (por ejemplo, las propiedades de Punto o Extensión de la característica). GML también ofrece la posibilidad de que las entidades compartan una propiedad geométrica entre sí mediante el uso de una referencia de propiedad remota en la propiedad geométrica compartida. Las propiedades remotas son una característica general de GML tomada de RDF. Un atributo xlink: href en una propiedad de geometría GML significa que el valor de la propiedad es el recurso al que se hace referencia en el enlace.
 
 Por ejemplo, una característica de construcción en un esquema de aplicación GML particular podría tener una posición dada por el tipo de objeto de geometría GML primitivo Punto . Sin embargo, el Edificio es una entidad separada del Punto que define su posición. Además, una entidad puede tener varias propiedades geométricas (o ninguna), por ejemplo, una extensión y una posición.
-</br>
+</br></br></br></br>
+# APA.
+ ![Pregunta_1](https://marketplace.visualstudio.com/VSCode)
+ ![Pregunta_2](https://es.wikipedia.org/wiki/JSON)
+  ![Pregunta_3](https://es.wikipedia.org/wiki/Extensible_Markup_Language)
+   ![Pregunta_4](https://es.wikipedia.org/wiki/JQuery)
+    ![Pregunta_5](https://es.wikipedia.org/wiki/SGML)
+    ![Pregunta_5](https://www.gmlplus.es/que-es-un-gml/)
+</br></br></br></br>
 [INICIO](#id0)
