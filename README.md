@@ -306,7 +306,7 @@ La navegación entre páginas se realiza con la ayuda de vue-router.
 
  ![visualStrudioCode](https://discover.egafutura.com/wp-content/uploads/2021/04/10-extensiones-de-vs-code-que-potenciaran-su-desarrollo-de-salesforce.gif)
 </br>
-##2. JSON. </br>
+## 2. JSON. </br>
 **JSON** (JavaScript Object Notation) es un formato ligero de intercambio de datos. Es fácil para los programadores leer y escribir. Es fácil para los ordenadores analizar y generar. Se basa en un subconjunto del estándar de lenguaje de programación *JavaScript ECMA-262 3.ª edición - diciembre de 1999*. **JSON** es un formato de texto que es completamente independiente del lenguaje, pero utiliza convenciones que son familiares para los programadores de la familia de lenguajes C, incluido C, C ++, C #, Java, JavaScript, Perl, Python y muchos otros. Estas propiedades hacen de **JSON** un lenguaje de intercambio de datos perfecto para trabajar.
 
 **JSON** se basa en dos estructuras:
@@ -315,7 +315,7 @@ Una lista ordenada de valores. En la mayoría de los lenguajes, esto se realiza 
 Estas son estructuras de datos universales. Prácticamente todos los lenguajes de programación modernos los admiten de una forma u otra. Tiene sentido que un formato de datos que sea intercambiable con lenguajes de programación que también se basen en estas estructuras.
 
 </br>
-##3. XML. </br>
+## 3. XML. </br>
 **El lenguaje de marcado extensible ( XML )** es un lenguaje de marcado que define un conjunto de reglas para codificar documentos en un formato que es legible por programadores y por una máquina. 
 
 XML tiene una variedad de usos para aplicaciones web, de comercio electrónico y portátiles.
@@ -329,7 +329,7 @@ Las siguientes son algunas de las muchas aplicaciones para las que XML es útil:
 - **Computación omnipresente :** XML proporciona tipos de información estructurada y portátil para mostrar en dispositivos informáticos omnipresentes (inalámbricos) como asistentes digitales personales (PDA), teléfonos celulares y otros. Por ejemplo, WML *(Wireless Markup Language)* y VoiceXML son estándares en evolución para describir interfaces de dispositivos inalámbricos visuales y controlados por voz.
 
 </br>
-##4. JQuery. </br>
+## 4. JQuery. </br>
 **jQuery** es un marco creado con JavaScript. Ayuda a los desarrolladores web a agregar funcionalidades adicionales a sus sitios web. Es la biblioteca de JavaScript más popular utilizada para recorrer y manipular el árbol DOM de HTML. Además, simplifica el manejo de eventos, la animación CSS y Ajax.
 Es mucho más simple con una API fácil de usar que funciona en una multitud de navegadores. Hace que sus páginas web sean más interactivas, sencillas y mejora la experiencia del usuario. Le proporciona varias funciones visuales, como efectos de entrada y salida, que la convierten en una de las opciones preferidas por los diseñadores web.
 **jQuery** se usa para tomar muchas tareas comunes que requieren muchas líneas de código JavaScript y las agrupa en varios métodos. Este método se puede llamar con una sola línea de código. Por lo cual, facilita el uso de JavaScript en su sitio web. Al explicar la diferencia entre Javascript y jQuery, *Skillcrush* dice, *"JavaScript es un lenguaje de programación independiente, mientras que jQuery es una colección de código JavaScript (no su propio lenguaje)".*
@@ -363,8 +363,9 @@ Algunas de estas empresas son:
 - IBM
 - Netflix
  
+  ![JQuery](https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/200.gif)
  </br>
- #5 SGML y GML. 
+ # 5. SGML y GML. 
  Ambos son lenguajes de lenguaje de marcado generalizado, que derivaron al actual HTML5.
  **SGML** El lenguaje de marcado generalizado estándar *SGML* es un lenguaje de marcado de texto que sirve como un superconjunto de lenguajes de marcado ampliamente utilizados como HTML (lenguaje de marcado de hipertexto) y XML (lenguaje de marcado extensible).
 
