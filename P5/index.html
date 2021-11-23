@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Dibujar tabla HTML con JavaScript</title>
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.2/css/bootstrap.min.css" rel="stylesheet"/>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+		<script src="Persona.js"></script>
+    </head>
+    <body>
+        <h1 align="center">Creación de personas</h1>
+        <div class="container">
+		  <div class="row">
+			<table border="1" class="table" id="tablaprueba">
+			  <thead class="thead-dark">
+				<tr>
+				  <th>ID</th>
+				  <th>Nombre</th>
+				  <th>Apellido1</th>
+				  <th>Apellido2</th>
+				  <th>Acciones</th>
+				</tr>
+			  </thead>
+			  <tbody id="cuerpoTabla">
+			  </tbody>
+			</table>
+			<div class="form-group">
+			  <button type="button" class="btn btn-primary mr-2" onclick="agregarFila()">Añadir nueva persona</button>
+			  <button type="button" class="btn btn-danger" onclick="eliminarUltimaFila()">Borrar última persona de la tabla</button>
+			  <button type="button" class="btn btn-danger" onclick="limpiarTabla()">Limpiar tabla</button>
+			</div>
+		  </div>
+		</div>
+		<script src="script.js"></script>
+	
+    </body>
+</html>
