@@ -8,6 +8,7 @@
 2. [Práctica 2](#id3)
 3. [Práctica 3](#id4)
 4. [Práctica 4](#id5)
+6. [Práctica 6](https://github.com/VillalbaVazquezAntonio/P6)
 
 
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
